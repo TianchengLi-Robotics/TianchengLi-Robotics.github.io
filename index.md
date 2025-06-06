@@ -14,6 +14,7 @@ I am currently a postdoctoral research fellow at the [**Robotics Institute, Univ
 
 ### News and Updates
 
-- **April 2025:** I will join Robotics Institute, University of Technology Sydney (UTS) as a postdoctoral research fellow.
-- **January 2025:** Our paper [Partial-to-Full Registration based on Gradient-SDF for Computer-Assisted Orthopedic Surgery](https://arxiv.org/pdf/2410.03078) has been accepted by IEEE International Conference on Robotics and Automation (ICRA) 2025.
-- **February 2024：** Our paper [Robotic‐assisted burring in total hip replacement: A new surgical technique to optimise acetabular preparation] has been accepted by The International Journal of Medical Robotics and Computer Assisted Surgery. 
+- **Apr 2025:** I will join Robotics Institute, University of Technology Sydney as a postdoctoral research fellow.
+- **Jan 2025:** Our paper [Partial-to-Full Registration based on Gradient-SDF for Computer-Assisted Orthopedic Surgery](https://arxiv.org/pdf/2410.03078) has been accepted by **ICRA 2025**.
+- **Feb 2024：** Our paper [Robotic‐assisted burring in total hip replacement: A new surgical technique to optimise acetabular preparation(https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rcs.2615) has been accepted by IJMRCAS. 
+- **May 2023:** Our paper [A closed-form solution to electromagnetic sensor based intraoperative limb length measurement in total hip arthroplasty](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_35) has been accepted by **MICCAI 2023**.
