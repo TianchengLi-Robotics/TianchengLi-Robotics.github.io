@@ -50,14 +50,8 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Awards
+  - title: Projects
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
-  - title: 中文
-    url: /cn/
 
 
 # --------------------------------------------------
@@ -73,7 +67,7 @@ highlighter: rouge               # Code highlighter; Rouge is default in MM
 # --------------------------------------------------
 #  PERMALINK STRUCTURE
 # --------------------------------------------------
-permalink: /:categories/:title    # e.g. /tech/my-post/
+# permalink: /:categories/:title    # e.g. /tech/my-post/
 
 
 # --------------------------------------------------
