@@ -4,7 +4,7 @@ layout: page
 
 ## Tiancheng Li
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://caihanlin.com/TianchengLi.jpg" class="floatpic">
 ##
 
 I am currently a postdoctoral research fellow at the [Robotics Institute, University of Technology Sydney (UTS), Australia](https://www.uts.edu.au/research/centres/robotics-institute), supervised by [Prof. Shoudong Huang](https://profiles.uts.edu.au/Shoudong.Huang) and [A/Prof. Liang Zhao](https://www.research.ed.ac.uk/en/persons/liang-zhao). My research  primarily focuses on medical robotics, computer assisted intervention, and simultaneous localization and mapping (SLAM), particularly for orthopaedic surgery.  
