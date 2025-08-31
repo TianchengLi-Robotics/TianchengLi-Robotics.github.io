@@ -159,10 +159,20 @@ html body .container {
   padding: 3rem 0;
   background: var(--bg-secondary);
   border-bottom: 1px solid var(--border-color);
+  width: 100vw !important;
+  margin: 0 !important;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw !important;
+  margin-right: -50vw !important;
 }
 
 .hero-content {
   text-align: center;
+  width: 100%;
+  max-width: 90vw;
+  margin: 0 auto;
 }
 
 .hero-avatar {
