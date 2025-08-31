@@ -15,11 +15,7 @@ title: Message Board
     <section class="message-board-content">
       <div class="message-form">
         <h2>Leave a Message</h2>
-        <form class="contact-form" name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
-          <input type="hidden" name="form-name" value="contact" />
-          <p class="hidden">
-            <label>Don't fill this out if you're human: <input name="bot-field" /></label>
-          </p>
+        <form class="contact-form" action="https://formspree.io/f/mgvlyknz" method="POST">
           <div class="form-group">
             <label for="name">Name:</label>
             <input type="text" id="name" name="name" required>
@@ -94,14 +90,9 @@ document.addEventListener('DOMContentLoaded', function() {
       submitBtn.textContent = 'Sending...';
       submitBtn.disabled = true;
       
-      // For Netlify Forms, the form will be handled automatically
-      // For Formspree, you might want to handle the response
-      
-      // Reset button after a delay (Netlify will handle the redirect)
-      setTimeout(function() {
-        submitBtn.textContent = originalText;
-        submitBtn.disabled = false;
-      }, 3000);
+             // For Formspree, handle the form submission
+       // The form will redirect to Formspree's success page
+       // We'll show success message when user returns
     });
   }
   
