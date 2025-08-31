@@ -4,7 +4,7 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-<div class="container">
+<div class="container" style="max-width: 1200px !important; margin: 0 auto !important; padding: 0 2rem !important; width: 100% !important; box-sizing: border-box !important;">
   <section class="projects-intro">
     <h1>Research Projects</h1>
     <p>Here are the key research projects I have been working on in the field of medical robotics and computer-assisted surgery.</p>
