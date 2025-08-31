@@ -32,6 +32,50 @@
   box-sizing: border-box !important;
 }
 
+/* Force ALL containers to be centered with maximum specificity */
+html body .hero-section .container,
+html body .content-section .container,
+html body .navigation-wrapper .container,
+html body div.hero-section div.container,
+html body div.content-section div.container,
+html body div.navigation-wrapper div.container {
+  max-width: 1200px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* Override any main.css rules that might affect layout */
+#main,
+#main article,
+#index,
+.article-wrap,
+.article-content,
+.article-content .container,
+#main .container,
+#index .container {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 100% !important;
+  max-width: none !important;
+  float: none !important;
+}
+
+/* Force all content to be centered */
+.about-section,
+.news-section,
+.projects-intro,
+.project-section,
+.card,
+.publication-item {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 100% !important;
+}
+
 /* ===== CSS Variables ===== */
 :root {
   --primary-color: #2c3e50;
