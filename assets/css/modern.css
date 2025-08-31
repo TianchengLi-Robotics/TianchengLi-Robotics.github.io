@@ -16,7 +16,7 @@
   --font-serif: 'PT Serif', Georgia, serif;
   --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
   --line-height: 1.6;
-  --max-width: 1200px;
+  --max-width: 1400px;
 }
 
 /* ===== Base Styles ===== */
@@ -73,9 +73,9 @@ a:hover {
 
 /* ===== Layout ===== */
 .container {
-  max-width: var(--max-width);
-  margin: 0 auto;
-  padding: 0 2rem;
+  max-width: var(--max-width) !important;
+  margin: 0 auto !important;
+  padding: 0 2rem !important;
 }
 
 /* ===== Navigation ===== */
@@ -340,7 +340,7 @@ a:hover {
 /* ===== Responsive Design ===== */
 @media (max-width: 768px) {
   .container {
-    padding: 0 1rem;
+    padding: 0 1rem !important;
   }
   
   .navigation-content {
