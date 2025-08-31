@@ -1,6 +1,18 @@
 /* Academic Personal Website Styles */
 /* Clean, minimal design focused on content */
 
+/* ===== GLOBAL FORCE CENTERING ===== */
+.container {
+  max-width: 1200px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  text-align: left !important;
+}
+
 /* ===== CSS Variables ===== */
 :root {
   --primary-color: #2c3e50;
@@ -36,6 +48,7 @@ body {
   background-color: var(--bg-primary);
   margin: 0 !important;
   padding: 0 !important;
+  text-align: center !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -131,7 +144,6 @@ body .content-section .container {
 
 /* Force centering with maximum specificity */
 html body .container,
-
 html body div.container,
 html body .navigation-wrapper .container,
 html body .hero-section .container,
