@@ -331,14 +331,16 @@ html body .content-section .container {
 }
 
 .hero-avatar {
-  width: 120px;
-  height: 120px;
+  width: 160px;
+  height: 160px;
   border-radius: 8px;
   border: 3px solid var(--bg-primary);
   box-shadow: 0 6px 24px rgba(0, 0, 0, 0.12);
   object-fit: cover;
   transition: all 0.3s ease;
   flex-shrink: 0;
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
 }
 
 .hero-avatar:hover {
@@ -843,6 +845,11 @@ html body .content-section .container {
     font-size: 1rem;
   }
   
+  .hero-avatar {
+    width: 140px;
+    height: 140px;
+  }
+  
   .hero-social-links {
     flex-direction: column;
     gap: 0.5rem;
@@ -948,8 +955,8 @@ html body .content-section .container {
   }
   
   .hero-avatar {
-    width: 80px;
-    height: 80px;
+    width: 120px;
+    height: 120px;
   }
   
   .hero-text {
