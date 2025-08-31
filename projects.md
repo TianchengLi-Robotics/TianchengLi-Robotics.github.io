@@ -15,7 +15,7 @@ title: Projects
     <section class="project-section">
       <div class="project-header">
         <div class="project-media">
-          <img src="https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=600&h=400&fit=crop" alt="Medical Robotics" class="project-image">
+          <img src="https://tianchengli-robotics.github.io//TianchengLi.jpg" alt="Medical Robotics" class="project-image">
         </div>
         <div class="project-info">
           <h2>Medical Robotics & Computer-Assisted Surgery</h2>
