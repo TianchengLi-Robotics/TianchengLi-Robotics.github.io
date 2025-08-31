@@ -131,6 +131,7 @@ body .content-section .container {
 
 /* Force centering with maximum specificity */
 html body .container,
+
 html body div.container,
 html body .navigation-wrapper .container,
 html body .hero-section .container,
