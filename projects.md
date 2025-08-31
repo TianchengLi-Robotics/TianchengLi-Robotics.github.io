@@ -35,6 +35,14 @@ title: Projects
         <ul>
           <li>Li, T., Walker, P., Hammoud, D., Zhao, L. and Huang, S., 2025. Partial-to-Full Registration based on Gradient-SDF for Computer-Assisted Orthopedic Surgery. In IEEE International Conference on Robotics and Automation (ICRA)). </li>
         </ul>
+
+        <h3>Demo Video</h3>
+        <div class="project-demo">
+          <div class="video-container">
+            <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+          </div>
+          <p class="demo-description">Demonstration of the robotic system performing acetabular preparation during hip replacement surgery. The video shows the automated planning and execution of surgical procedures.</p>
+        </div>
       </div>
     </section>
 
@@ -64,6 +72,14 @@ title: Projects
           <li>Created real-time deformation tracking and compensation methods</li>
           <li>Designed robust feature extraction and matching algorithms</li>
         </ul>
+
+        <h3>Demo Video</h3>
+        <div class="project-demo">
+          <div class="video-container">
+            <iframe src="https://www.youtube.com/embed/9bZkp7q19f0" frameborder="0" allowfullscreen></iframe>
+          </div>
+          <p class="demo-description">Real-time demonstration of SLAM algorithm working in deformable environments. The video shows the system's ability to track and map soft tissue deformation during surgical procedures.</p>
+        </div>
       </div>
     </section>
 
@@ -93,6 +109,14 @@ title: Projects
           <li>Designed calibration and validation protocols for surgical accuracy</li>
           <li>Integrated sensor fusion techniques for improved measurement precision</li>
         </ul>
+
+        <h3>Demo Video</h3>
+        <div class="project-demo">
+          <div class="video-container">
+            <iframe src="https://www.youtube.com/embed/jNQXAC9IVRw" frameborder="0" allowfullscreen></iframe>
+          </div>
+          <p class="demo-description">Demonstration of the electromagnetic sensor system measuring limb length during hip replacement surgery. The video shows real-time data acquisition and processing capabilities.</p>
+        </div>
       </div>
     </section>
 
@@ -122,6 +146,14 @@ title: Projects
           <li>Developed ergonomic interfaces for surgeon-robot interaction</li>
           <li>Created adaptive control algorithms for collaborative tasks</li>
         </ul>
+
+        <h3>Demo Video</h3>
+        <div class="project-demo">
+          <div class="video-container">
+            <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+          </div>
+          <p class="demo-description">Demonstration of human-robot collaboration in surgical environment. The video shows the robot assisting surgeons with precise movements while maintaining safety protocols.</p>
+        </div>
       </div>
     </section>
 
@@ -151,6 +183,14 @@ title: Projects
           <li>Mentored international students in SLAM research</li>
           <li>Coordinated virtual learning activities and discussions</li>
         </ul>
+
+        <h3>Demo Video</h3>
+        <div class="project-demo">
+          <div class="video-container">
+            <iframe src="https://www.youtube.com/embed/jNQXAC9IVRw" frameborder="0" allowfullscreen></iframe>
+          </div>
+          <p class="demo-description">Highlights from the IEEE RAS Winter School on SLAM in Deformable Environments. The video showcases the educational sessions and international collaboration.</p>
+        </div>
       </div>
     </section>
   </div>
