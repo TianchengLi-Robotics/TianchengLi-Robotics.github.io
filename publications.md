@@ -4,6 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
+<div class="left-spacer"></div>
 <div class="container" style="margin: 0 auto !important;">
   <div class="card">
     <div class="card-header">
@@ -130,3 +131,4 @@ title: Publications
     </div>
   </div>
 </div>
+<div class="right-spacer"></div>
