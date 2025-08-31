@@ -42,6 +42,33 @@ layout: page
       </p>
     </section>
 
+    <section class="experience-section">
+      <h2>Working Experience</h2>
+      <div class="experience-item">
+        <div class="experience-header">
+          <h3>Postdoctoral Research Fellow</h3>
+          <span class="experience-duration">Apr 2025 - Present</span>
+        </div>
+        <div class="experience-institution">Robotics Institute, University of Technology Sydney (UTS), Australia</div>
+        <div class="experience-supervisors">Supervisors: Prof. Shoudong Huang, A/Prof. Liang Zhao</div>
+        <p class="experience-description">
+          Research focus on medical robotics and computer-assisted intervention for orthopaedic surgery, particularly developing innovative robotic systems for hip replacement procedures.
+        </p>
+      </div>
+
+      <div class="experience-item">
+        <div class="experience-header">
+          <h3>Research Assistant</h3>
+          <span class="experience-duration">Feb 2021 - Mar 2025</span>
+        </div>
+        <div class="experience-institution">Robotics Institute, University of Technology Sydney (UTS), Australia</div>
+        <div class="experience-supervisors">Supervisors: Prof. Shoudong Huang, A/Prof. Liang Zhao</div>
+        <p class="experience-description">
+          Conducted research on SLAM for deformable environments, electromagnetic sensor systems, and robotic-assisted surgical techniques. Contributed to multiple industry-funded projects and published several high-impact papers.
+        </p>
+      </div>
+    </section>
+
     <section class="news-section">
       <h2>Recent News</h2>
       <ul class="news-list">
