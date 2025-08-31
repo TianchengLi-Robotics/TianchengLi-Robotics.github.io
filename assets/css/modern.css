@@ -674,17 +674,8 @@ html body .content-section .container {
     margin: 0;
   }
   
-  .publication-category {
-    margin-bottom: 4rem;
-  }
-  
-  .publication-category h2 {
-    font-size: 1.75rem;
-    font-weight: 600;
-    margin-bottom: 1.5rem;
-    color: var(--text-primary);
-    border-bottom: 2px solid var(--border-color);
-    padding-bottom: 0.5rem;
+  .publications-list {
+    margin-bottom: 2rem;
   }
   
   .publication-section {
@@ -729,14 +720,7 @@ html body .content-section .container {
     font-weight: 500;
   }
   
-  .publication-type {
-    background: var(--bg-secondary);
-    color: var(--text-secondary);
-    padding: 0.25rem 0.75rem;
-    border-radius: 20px;
-    font-size: 0.875rem;
-    font-weight: 500;
-  }
+
   
   .publication-title {
     font-size: 1.25rem;
@@ -896,10 +880,6 @@ html body .content-section .container {
   
   .publications-intro h1 {
     font-size: 2rem;
-  }
-  
-  .publication-category h2 {
-    font-size: 1.5rem;
   }
   
   .publication-section {
