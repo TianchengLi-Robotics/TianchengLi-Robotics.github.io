@@ -73,9 +73,21 @@ a:hover {
 
 /* ===== Layout ===== */
 .container {
-  max-width: var(--max-width) !important;
+  max-width: 1800px !important;
   margin: 0 auto !important;
-  padding: 0 3rem !important;
+  padding: 0 4rem !important;
+}
+
+body .container {
+  max-width: 1800px !important;
+  margin: 0 auto !important;
+  padding: 0 4rem !important;
+}
+
+html body .container {
+  max-width: 1800px !important;
+  margin: 0 auto !important;
+  padding: 0 4rem !important;
 }
 
 #main {
