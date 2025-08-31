@@ -15,7 +15,11 @@ title: Message Board
     <section class="message-board-content">
       <div class="message-form">
         <h2>Leave a Message</h2>
-        <form class="contact-form">
+        <form class="contact-form" name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+          <input type="hidden" name="form-name" value="contact" />
+          <p class="hidden">
+            <label>Don't fill this out if you're human: <input name="bot-field" /></label>
+          </p>
           <div class="form-group">
             <label for="name">Name:</label>
             <input type="text" id="name" name="name" required>
@@ -38,6 +42,14 @@ title: Message Board
           
           <button type="submit" class="submit-btn">Send Message</button>
         </form>
+        
+        <div id="form-success" class="form-message success" style="display: none;">
+          <p>Thank you for your message! I'll get back to you soon.</p>
+        </div>
+        
+        <div id="form-error" class="form-message error" style="display: none;">
+          <p>Sorry, there was an error sending your message. Please try again or contact me directly via email.</p>
+        </div>
       </div>
 
       <div class="contact-info">
@@ -63,3 +75,42 @@ title: Message Board
   </div>
   <div class="right-spacer"></div>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const form = document.querySelector('.contact-form');
+  const successMessage = document.getElementById('form-success');
+  const errorMessage = document.getElementById('form-error');
+  
+  if (form) {
+    form.addEventListener('submit', function(e) {
+      // Hide any existing messages
+      successMessage.style.display = 'none';
+      errorMessage.style.display = 'none';
+      
+      // Show loading state
+      const submitBtn = form.querySelector('.submit-btn');
+      const originalText = submitBtn.textContent;
+      submitBtn.textContent = 'Sending...';
+      submitBtn.disabled = true;
+      
+      // For Netlify Forms, the form will be handled automatically
+      // For Formspree, you might want to handle the response
+      
+      // Reset button after a delay (Netlify will handle the redirect)
+      setTimeout(function() {
+        submitBtn.textContent = originalText;
+        submitBtn.disabled = false;
+      }, 3000);
+    });
+  }
+  
+  // Check for success/error parameters in URL (for Formspree)
+  const urlParams = new URLSearchParams(window.location.search);
+  if (urlParams.get('success') === 'true') {
+    successMessage.style.display = 'block';
+  } else if (urlParams.get('error') === 'true') {
+    errorMessage.style.display = 'block';
+  }
+});
+</script>
