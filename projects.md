@@ -39,9 +39,13 @@ title: Projects
         <h3>Demo Video</h3>
         <div class="project-demo">
           <div class="video-container">
-            <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/watch?v=-IMZfBUlNvY" frameborder="0" allowfullscreen></iframe>
           </div>
-          <p class="demo-description">Demonstration of the robotic system performing acetabular preparation during hip replacement surgery. The video shows the automated planning and execution of surgical procedures.</p>
+          <p class="demo-description">Phantom demonstration of robotic-assisted surgical system for total hip replacement</p>
+          <div class="video-container">
+            <iframe src="https://www.youtube.com/watch?v=U372zZRSQRU" frameborder="0" allowfullscreen></iframe>
+          </div>
+          <p class="demo-description">Demonstration of the bone registration for computer-assisted orthopedic surgery.</p>
         </div>
       </div>
     </section>
