@@ -21,7 +21,7 @@ title: Projects
           <h2>Development of a Low-Cost Minimally Invasive Robot System for Hip Replacement</h2>
           <div class="project-meta">
             <span class="project-duration">2025 - Present</span>
-            <span class="Funding">Medical Research Council (NHMRC) Ideas Grant</span>
+            <span class="Funding">Funded by Medical Research Council (NHMRC) Ideas Grant</span>
             <!-- <span class="project-supervisors">Prof. Shoudong Huang, A/Prof. Liang Zhao</span> -->
           </div>
         </div>
@@ -29,14 +29,11 @@ title: Projects
       
       <div class="project-content">
         <h3>Project Description</h3>
-        <p>This project focuses on developing an innovative, cost-effective robotic system to assist surgeons in performing minimally invasive hip replacement surgery. The system aims to develop a low-cost minimally invasive robot system to assist with THR surgery that can automatically plan and prepare for the accurate placement of the components.</p>
+        <p>This project focuses on developing an innovative, cost-effective robotic system to help surgeons in performing minimally invasive hip replacement surgery. The system aims to assist with surgery that can automatically plan and prepare for the accurate placement of the components.</p>
         
-        <h3>Key Contributions</h3>
+        <h3>Research Outcomes</h3>
         <ul>
-          <li>Designed and implemented robotic-assisted burring systems for acetabular preparation</li>
-          <li>Developed computer-assisted surgical planning algorithms</li>
-          <li>Integrated electromagnetic sensor systems for intraoperative measurements</li>
-          <li>Implemented real-time surgical guidance and feedback mechanisms</li>
+          <li>Li, T., Walker, P., Hammoud, D., Zhao, L. and Huang, S., 2025. Partial-to-Full Registration based on Gradient-SDF for Computer-Assisted Orthopedic Surgery. In IEEE International Conference on Robotics and Automation (ICRA)). </li>
         </ul>
       </div>
     </section>
