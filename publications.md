@@ -8,31 +8,24 @@ title: Publications
   <div class="left-spacer"></div>
   <div class="container" style="margin: 0 auto !important;">
     <section class="publications-intro">
-      <h1>Publications</h1>
-      <p>Here are my research publications in the field of medical robotics, computer-assisted intervention, and SLAM for orthopaedic surgery.</p>
-      <p class="publication-legend"><em>(†: equal contribution, ~: corresponding author)</em></p>
+      <h1>Selected Publications</h1>
+      <!-- <p>Here are my research publications in the field of medical robotics, computer-assisted intervention, and SLAM for orthopaedic surgery.</p>
+      <p class="publication-legend"><em>(†: equal contribution, ~: corresponding author)</em></p> -->
     </section>
+
 
     <section class="publications-list">
       <div class="publication-section">
         <div class="publication-header">
-          <div class="publication-meta">
-            <span class="publication-year">2025</span>
-          </div>
-          <h3 class="publication-title">Robotic‐assisted burring in total hip replacement: A new surgical technique to optimise acetabular preparation</h3>
+          <h3 class="publication-title">Physical Human-Robot Collaboration-Assisted Acetabular Preparation for Total Hip Replacement Surgery</h3>
         </div>
-        <div class="publication-authors"><strong>Li, T.</strong>, Walker, P., Khonasty, R., van de Graaf, V.A., Yelf, E., Zhao, L. and Huang, S.</div>
-        <div class="publication-venue">The International Journal of Medical Robotics and Computer Assisted Surgery, 20(1), p.e2615.</div>
-        <div class="publication-links">
-          <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rcs.2615" target="_blank" class="publication-link">Paper</a>
+        <div class="publication-authors"Wang, Z., <strong>Li, T.</strong>, Carmichael, M., Huang, S.</div>
+        <div class="publication-venue">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025). Hangzhou, China.</div>
         </div>
       </div>
 
       <div class="publication-section">
         <div class="publication-header">
-          <div class="publication-meta">
-            <span class="publication-year">2025</span>
-          </div>
           <h3 class="publication-title">Partial-to-Full Registration based on Gradient-SDF for Computer-Assisted Orthopedic Surgery</h3>
         </div>
         <div class="publication-authors"><strong>Li, T.</strong>, Walker, P., Hammoud, D., Zhao, L. and Huang, S.</div>
@@ -44,23 +37,18 @@ title: Publications
 
       <div class="publication-section">
         <div class="publication-header">
-          <div class="publication-meta">
-            <span class="publication-year">2025</span>
-          </div>
-          <h3 class="publication-title">Physical Human-Robot Collaboration-Assisted Acetabular Preparation for Total Hip Replacement Surgery</h3>
+          <h3 class="publication-title">Robotic‐assisted burring in total hip replacement: A new surgical technique to optimise acetabular preparation</h3>
         </div>
-        <div class="publication-authors"><strong>Li, T.</strong>, Walker, P., Zhao, L. and Huang, S.</div>
-        <div class="publication-venue">Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025).</div>
+        <div class="publication-authors"><strong>Li, T.</strong>, Walker, P., Khonasty, R., van de Graaf, V.A., Yelf, E., Zhao, L. and Huang, S.</div>
+        <div class="publication-venue">The International Journal of Medical Robotics and Computer Assisted Surgery, 20(1), p.e2615.</div>
         <div class="publication-links">
-          <span class="publication-status">Under Review</span>
+          <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rcs.2615" target="_blank" class="publication-link">Paper</a>
         </div>
       </div>
 
+
       <div class="publication-section">
         <div class="publication-header">
-          <div class="publication-meta">
-            <span class="publication-year">2023</span>
-          </div>
           <h3 class="publication-title">A Closed-Form Solution to Electromagnetic Sensor Based Intraoperative Limb Length Measurement in Total Hip Arthroplasty</h3>
         </div>
         <div class="publication-authors"><strong>Li, T.</strong>, Song, Y., Walker, P., Pan, K., van de Graaf, V.A., Zhao, L. and Huang, S.</div>
@@ -72,23 +60,6 @@ title: Publications
 
       <div class="publication-section">
         <div class="publication-header">
-          <div class="publication-meta">
-            <span class="publication-year">2022</span>
-          </div>
-          <h3 class="publication-title">Proof of concept study for using UR10 robot to help total hip replacement</h3>
-        </div>
-        <div class="publication-authors">Walker, P., <strong>Li, T*.</strong>, Khonasty, R., Ponnanna, K.M., Kuo, A., Zhao, L. and Huang, S.</div>
-        <div class="publication-venue">The International Journal of Medical Robotics and Computer Assisted Surgery, 18(2), p.e2359.</div>
-        <div class="publication-links">
-          <a href="https://onlinelibrary.wiley.com/doi/10.1002/rcs.2359" target="_blank" class="publication-link">Paper</a>
-        </div>
-      </div>
-
-      <div class="publication-section">
-        <div class="publication-header">
-          <div class="publication-meta">
-            <span class="publication-year">2021</span>
-          </div>
           <h3 class="publication-title">2D laser SLAM with closed shape features: Fourier series parameterization and submap joining</h3>
         </div>
         <div class="publication-authors">Zhao, J., <strong>Li, T.</strong>, Huang, S.</div>
