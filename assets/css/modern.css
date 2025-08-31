@@ -192,6 +192,41 @@ html body .container {
   line-height: 1.4;
 }
 
+/* ===== Hero Social Links ===== */
+.hero-social-links {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.hero-social-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.25rem;
+  background: var(--bg-primary);
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  color: var(--text-secondary);
+  text-decoration: none;
+  font-size: 0.875rem;
+  font-weight: 500;
+  transition: all 0.2s;
+}
+
+.hero-social-link:hover {
+  background: var(--accent-color);
+  color: white;
+  border-color: var(--accent-color);
+  transform: translateY(-1px);
+}
+
+.hero-social-icon {
+  width: 16px;
+  height: 16px;
+}
+
 /* ===== Content Sections ===== */
 .content-section {
   padding: 2rem 0 3rem 0;
@@ -388,6 +423,17 @@ html body .container {
   
   .hero-subtitle {
     font-size: 1rem;
+  }
+  
+  .hero-social-links {
+    flex-direction: column;
+    gap: 0.75rem;
+    align-items: center;
+  }
+  
+  .hero-social-link {
+    width: 140px;
+    justify-content: center;
   }
   
   .footer-links {
