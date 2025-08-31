@@ -3,12 +3,12 @@
 
 /* ===== GLOBAL FORCE CENTERING ===== */
 .container {
-  max-width: 1200px !important;
-  margin-left: 20% !important;
+  max-width: 800px !important;
+  margin-left: 25% !important;
   margin-right: auto !important;
   padding-left: 2rem !important;
   padding-right: 2rem !important;
-  width: 60% !important;
+  width: 50% !important;
   box-sizing: border-box !important;
 }
 
@@ -25,11 +25,11 @@
 .hero-section .container,
 .content-section .container,
 .navigation-wrapper .container {
-  max-width: 1200px !important;
-  margin-left: 20% !important;
+  max-width: 800px !important;
+  margin-left: 25% !important;
   margin-right: auto !important;
   padding: 0 2rem !important;
-  width: 60% !important;
+  width: 50% !important;
   box-sizing: border-box !important;
 }
 
@@ -40,12 +40,12 @@ html body .navigation-wrapper .container,
 html body div.hero-section div.container,
 html body div.content-section div.container,
 html body div.navigation-wrapper div.container {
-  max-width: 1200px !important;
-  margin-left: 20% !important;
+  max-width: 800px !important;
+  margin-left: 25% !important;
   margin-right: auto !important;
   padding-left: 2rem !important;
   padding-right: 2rem !important;
-  width: 60% !important;
+  width: 50% !important;
   box-sizing: border-box !important;
 }
 
@@ -149,29 +149,29 @@ a:hover {
 
 /* ===== Layout ===== */
 .container {
-  max-width: 1200px !important;
-  margin-left: 20% !important;
+  max-width: 800px !important;
+  margin-left: 25% !important;
   margin-right: auto !important;
   padding: 0 2rem !important;
-  width: 60% !important;
+  width: 50% !important;
   box-sizing: border-box !important;
 }
 
 body .container {
-  max-width: 1200px !important;
-  margin-left: 20% !important;
+  max-width: 800px !important;
+  margin-left: 25% !important;
   margin-right: auto !important;
   padding: 0 2rem !important;
-  width: 60% !important;
+  width: 50% !important;
   box-sizing: border-box !important;
 }
 
 html body .container {
-  max-width: 1200px !important;
-  margin-left: 20% !important;
+  max-width: 800px !important;
+  margin-left: 25% !important;
   margin-right: auto !important;
   padding: 0 2rem !important;
-  width: 60% !important;
+  width: 50% !important;
   box-sizing: border-box !important;
 }
 
@@ -180,12 +180,12 @@ body .container,
 html body .container,
 body div.container,
 html body div.container {
-  max-width: 1200px !important;
-  margin-left: 20% !important;
+  max-width: 800px !important;
+  margin-left: 25% !important;
   margin-right: auto !important;
   padding-left: 2rem !important;
   padding-right: 2rem !important;
-  width: 60% !important;
+  width: 50% !important;
   box-sizing: border-box !important;
 }
 
@@ -199,12 +199,12 @@ html body div.container,
 body .navigation-wrapper .container,
 body .hero-section .container,
 body .content-section .container {
-  max-width: 1200px !important;
-  margin-left: 20% !important;
+  max-width: 800px !important;
+  margin-left: 25% !important;
   margin-right: auto !important;
   padding-left: 2rem !important;
   padding-right: 2rem !important;
-  width: 60% !important;
+  width: 50% !important;
   box-sizing: border-box !important;
 }
 
@@ -214,12 +214,12 @@ html body div.container,
 html body .navigation-wrapper .container,
 html body .hero-section .container,
 html body .content-section .container {
-  max-width: 1200px !important;
-  margin-left: 20% !important;
+  max-width: 800px !important;
+  margin-left: 25% !important;
   margin-right: auto !important;
   padding-left: 2rem !important;
   padding-right: 2rem !important;
-  width: 60% !important;
+  width: 50% !important;
   box-sizing: border-box !important;
 }
 
@@ -521,10 +521,10 @@ html body .content-section .container {
 @media (max-width: 768px) {
   .container {
     max-width: 100% !important;
-    margin-left: 10% !important;
+    margin-left: 15% !important;
     margin-right: auto !important;
     padding: 0 1rem !important;
-    width: 80% !important;
+    width: 70% !important;
   }
   
   .navigation-content {
