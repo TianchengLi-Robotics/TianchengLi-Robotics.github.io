@@ -73,10 +73,10 @@ a:hover {
 
 /* ===== Layout ===== */
 .container {
-  max-width: 90vw !important;
+  max-width: 70vw !important;
   margin: 0 auto !important;
   padding: 0 1rem !important;
-  width: 90vw !important;
+  width: 70vw !important;
 }
 
 body .container {
