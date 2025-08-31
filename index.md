@@ -2,13 +2,36 @@
 layout: page
 ---
 
-## Tiancheng Li
+<div class="hero-section animate-fade-in">
+  <div class="container">
+    <div class="hero-content">
+      <img src="https://tianchengli-robotics.github.io//TianchengLi.jpg" class="hero-avatar" alt="Tiancheng Li">
+      <h1 class="hero-title">Tiancheng Li</h1>
+      <p class="hero-subtitle">
+        Postdoctoral Research Fellow at the Robotics Institute, University of Technology Sydney (UTS), Australia. 
+        Specializing in medical robotics, computer assisted intervention, and SLAM for orthopaedic surgery.
+      </p>
+      <div class="hero-buttons">
+        <a href="#about" class="btn btn-primary">Learn More</a>
+        <a href="/publications/" class="btn btn-secondary">View Publications</a>
+      </div>
+    </div>
+  </div>
+</div>
 
-<img src="https://tianchengli-robotics.github.io//TianchengLi.jpg" class="floatpic">
-
-<br>
-
-I am currently a postdoctoral research fellow at the [**Robotics Institute, University of Technology Sydney (UTS)**, Australia](https://www.uts.edu.au/research/centres/robotics-institute), supervised by [**Prof. Shoudong Huang**](https://profiles.uts.edu.au/Shoudong.Huang) and [**A/Prof. Liang Zhao**](https://www.research.ed.ac.uk/en/persons/liang-zhao). My research  primarily focuses on medical robotics, computer assisted intervention, and simultaneous localization and mapping (SLAM), particularly for orthopaedic surgery.  
+<div id="about" class="animate-fade-in-up">
+  <div class="container">
+    <div class="card">
+      <div class="card-header">
+        <div class="card-icon">👨‍🔬</div>
+        <h2 class="card-title">About Me</h2>
+      </div>
+      <p>
+        I am currently a postdoctoral research fellow at the [**Robotics Institute, University of Technology Sydney (UTS)**, Australia](https://www.uts.edu.au/research/centres/robotics-institute), supervised by [**Prof. Shoudong Huang**](https://profiles.uts.edu.au/Shoudong.Huang) and [**A/Prof. Liang Zhao**](https://www.research.ed.ac.uk/en/persons/liang-zhao). My research primarily focuses on medical robotics, computer assisted intervention, and simultaneous localization and mapping (SLAM), particularly for orthopaedic surgery.
+      </p>
+    </div>
+  </div>
+</div>  
 
 ---
 
