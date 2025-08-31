@@ -288,8 +288,8 @@ html body .content-section .container {
 
 /* ===== Hero Section ===== */
 .hero-section {
-  padding: 3rem 0;
-  background: var(--bg-secondary);
+  padding: 4rem 0;
+  background: linear-gradient(135deg, var(--bg-secondary) 0%, var(--bg-primary) 100%);
   border-bottom: 1px solid var(--border-color);
   width: 100vw !important;
   margin: 0 !important;
@@ -298,6 +298,19 @@ html body .content-section .container {
   right: 50%;
   margin-left: -50vw !important;
   margin-right: -50vw !important;
+  overflow: hidden;
+}
+
+.hero-section::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: radial-gradient(circle at 20% 80%, rgba(52, 152, 219, 0.1) 0%, transparent 50%),
+              radial-gradient(circle at 80% 20%, rgba(52, 152, 219, 0.1) 0%, transparent 50%);
+  pointer-events: none;
 }
 
 .hero-content {
@@ -305,14 +318,38 @@ html body .content-section .container {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
+  position: relative;
+  z-index: 1;
 }
 
 .hero-avatar {
-  width: 120px;
-  height: 120px;
+  width: 140px;
+  height: 140px;
   border-radius: 50%;
-  margin-bottom: 1.5rem;
-  border: 3px solid var(--border-color);
+  margin-bottom: 2rem;
+  border: 4px solid var(--bg-primary);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
+  object-fit: cover;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.hero-avatar::before {
+  content: '';
+  position: absolute;
+  top: -6px;
+  left: -6px;
+  right: -6px;
+  bottom: -6px;
+  background: linear-gradient(135deg, var(--accent-color), var(--primary-color));
+  border-radius: 50%;
+  z-index: -1;
+  opacity: 0.8;
+}
+
+.hero-avatar:hover {
+  transform: scale(1.05);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.2);
 }
 
 .hero-title {
@@ -320,6 +357,18 @@ html body .content-section .container {
   font-weight: 700;
   margin-bottom: 1rem;
   color: var(--text-primary);
+  animation: fadeInUp 0.8s ease-out;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .hero-subtitle {
@@ -895,8 +944,8 @@ html body .content-section .container {
   }
   
   .hero-avatar {
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
   }
   
   .hero-title {
