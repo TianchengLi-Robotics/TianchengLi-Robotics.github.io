@@ -16,7 +16,7 @@
   --font-serif: 'PT Serif', Georgia, serif;
   --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
   --line-height: 1.6;
-  --max-width: 800px;
+  --max-width: 1200px;
 }
 
 /* ===== Base Styles ===== */
@@ -75,7 +75,7 @@ a:hover {
 .container {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 0 1.5rem;
+  padding: 0 2rem;
 }
 
 /* ===== Navigation ===== */
