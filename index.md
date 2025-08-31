@@ -2,7 +2,6 @@
 layout: page
 ---
 
-<div style="display: flex; justify-content: center; width: 100%;">
 <div class="hero-section">
   <div class="container" style="margin: 0 auto !important;">
     <div class="hero-content">
@@ -30,9 +29,7 @@ layout: page
     </div>
   </div>
 </div>
-</div>
 
-<div style="display: flex; justify-content: center; width: 100%;">
 <div class="content-section">
   <div class="container" style="margin: 0 auto !important;">
     <section class="about-section">
@@ -56,5 +53,4 @@ layout: page
       </ul>
     </section>
   </div>
-</div>
 </div>
