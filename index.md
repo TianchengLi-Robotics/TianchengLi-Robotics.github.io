@@ -3,6 +3,7 @@ layout: page
 ---
 
 <div class="hero-section">
+  <div class="left-spacer"></div>
   <div class="container" style="margin: 0 auto !important;">
     <div class="hero-content">
       <img src="https://tianchengli-robotics.github.io//TianchengLi.jpg" class="hero-avatar" alt="Tiancheng Li">
@@ -28,9 +29,11 @@ layout: page
       </div>
     </div>
   </div>
+  <div class="right-spacer"></div>
 </div>
 
 <div class="content-section">
+  <div class="left-spacer"></div>
   <div class="container" style="margin: 0 auto !important;">
     <section class="about-section">
       <h2>About</h2>
@@ -53,4 +56,5 @@ layout: page
       </ul>
     </section>
   </div>
+  <div class="right-spacer"></div>
 </div>
