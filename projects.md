@@ -75,9 +75,9 @@ title: Projects
 
         <h3>Demo Video</h3>
         <div class="project-demo">
-          <div class="video-container">
-            <iframe src="https://www.youtube.com/embed/watch?v=khKJG1jvlJ4&t=5s" frameborder="0" allowfullscreen></iframe>
-          </div>
+                     <div class="video-container">
+             <iframe src="https://www.youtube.com/embed/khKJG1jvlJ4" frameborder="0" allowfullscreen></iframe>
+           </div>
           <p class="demo-description">A Closed-form Solution to Electromagnetic Sensor Based Intraoperative Limb Length Measurement in Total Hip Arthroplasty</p>
         </div>
       </div>
@@ -86,113 +86,33 @@ title: Projects
     <section class="project-section">
       <div class="project-header">
         <div class="project-media">
-          <img src="https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=600&h=400&fit=crop" alt="Electromagnetic Sensors" class="project-image">
+          <img src="https://tianchengli-robotics.github.io/cadaver.jpg" alt="Electromagnetic Sensors" class="project-image">
         </div>
         <div class="project-info">
-          <h2>Electromagnetic Sensor Systems</h2>
+          <h2>Evaluation and Improvement of the Robot Systems for Assisting Hip Replacement</h2>
           <div class="project-meta">
-            <span class="project-duration">2022 - 2024</span>
-            <span class="project-institution">University of Technology Sydney (UTS)</span>
-            <span class="project-application">Total Hip Arthroplasty</span>
+            <span class="project-duration">Feb 2022 – Aug 2022</span>
+            <span class="project-institution">Funded by PMSW Research Pty Ltd, Australia</span>
           </div>
         </div>
       </div>
       
       <div class="project-content">
-        <h3>Project Description</h3>
-        <p>Design and implementation of electromagnetic sensor-based measurement systems for intraoperative applications in arthroplasty. This system provides real-time limb length measurement during total hip replacement surgery.</p>
-        
-        <h3>Key Contributions</h3>
+        <h3>Research Outcomes</h3>
         <ul>
-          <li>Developed closed-form solutions for electromagnetic sensor-based measurements</li>
-          <li>Implemented real-time limb length measurement algorithms</li>
-          <li>Designed calibration and validation protocols for surgical accuracy</li>
-          <li>Integrated sensor fusion techniques for improved measurement precision</li>
+          <li><strong>Li, T.</strong>, Walker, P., Khonasty, R., van de Graaf, V.A., Yelf, E., Zhao, L. and Huang, S., 2024. Robotic‐assisted burring in total hip replacement: A new surgical technique to optimise acetabular preparation. The International Journal of Medical Robotics and Computer Assisted Surgery, 20(1), p.e2615.</li>
+          <li>Walker, P., <strong>Li, T*.</strong>, Khonasty, R., Ponnanna, K.M., Kuo, A., Zhao, L. and Huang, S., 2022. Proof of concept study for using UR10 robot to help total hip replacement. The International Journal of Medical Robotics and Computer Assisted Surgery, 18(2), p.e2359.</li>
         </ul>
 
         <h3>Demo Video</h3>
         <div class="project-demo">
-          <div class="video-container">
-            <iframe src="https://www.youtube.com/embed/jNQXAC9IVRw" frameborder="0" allowfullscreen></iframe>
-          </div>
-          <p class="demo-description">Demonstration of the electromagnetic sensor system measuring limb length during hip replacement surgery. The video shows real-time data acquisition and processing capabilities.</p>
+                     <div class="video-container">
+             <iframe src="https://www.youtube.com/embed/087r2_M9MmE" frameborder="0" allowfullscreen></iframe>
+           </div>
+          <p class="demo-description">Cadaver Experiment of Robotic Burring System for Total Hip Replacement Surgery.</p>
         </div>
       </div>
-    </section>
-
-    <section class="project-section">
-      <div class="project-header">
-        <div class="project-media">
-          <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop" alt="Human-Robot Collaboration" class="project-image">
-        </div>
-        <div class="project-info">
-          <h2>Human-Robot Collaboration</h2>
-          <div class="project-meta">
-            <span class="project-duration">2023 - Present</span>
-            <span class="project-institution">University of Technology Sydney (UTS)</span>
-            <span class="project-focus">Physical Human-Robot Interaction in Surgery</span>
-          </div>
-        </div>
-      </div>
-      
-      <div class="project-content">
-        <h3>Project Description</h3>
-        <p>Exploring physical human-robot collaboration techniques for surgical applications, focusing on safety, precision, and ergonomic design. This project aims to develop collaborative robotic systems that can work alongside surgeons.</p>
-        
-        <h3>Key Contributions</h3>
-        <ul>
-          <li>Designed physical human-robot collaboration frameworks for surgical applications</li>
-          <li>Implemented safety protocols and collision avoidance systems</li>
-          <li>Developed ergonomic interfaces for surgeon-robot interaction</li>
-          <li>Created adaptive control algorithms for collaborative tasks</li>
-        </ul>
-
-        <h3>Demo Video</h3>
-        <div class="project-demo">
-          <div class="video-container">
-            <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
-          </div>
-          <p class="demo-description">Demonstration of human-robot collaboration in surgical environment. The video shows the robot assisting surgeons with precise movements while maintaining safety protocols.</p>
-        </div>
-      </div>
-    </section>
-
-    <section class="project-section">
-      <div class="project-header">
-        <div class="project-media">
-          <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&h=400&fit=crop" alt="IEEE RAS Winter School" class="project-image">
-        </div>
-        <div class="project-info">
-          <h2>IEEE RAS Winter School on SLAM</h2>
-          <div class="project-meta">
-            <span class="project-duration">2021</span>
-            <span class="project-role">Tutor, Developer, and ZOOM Host</span>
-            <span class="project-institution">IEEE Robotics and Automation Society</span>
-          </div>
-        </div>
-      </div>
-      
-      <div class="project-content">
-        <h3>Project Description</h3>
-        <p>Contributed to the origination and organization of the international winter school "IEEE RAS Winter School on SLAM in Deformable Environments". This educational initiative brought together researchers and students from around the world to learn about advanced SLAM techniques.</p>
-        
-        <h3>Key Contributions</h3>
-        <ul>
-          <li>Developed educational materials and tutorials on SLAM techniques</li>
-          <li>Hosted online sessions and provided technical support</li>
-          <li>Mentored international students in SLAM research</li>
-          <li>Coordinated virtual learning activities and discussions</li>
-        </ul>
-
-        <h3>Demo Video</h3>
-        <div class="project-demo">
-          <div class="video-container">
-            <iframe src="https://www.youtube.com/embed/jNQXAC9IVRw" frameborder="0" allowfullscreen></iframe>
-          </div>
-          <p class="demo-description">Highlights from the IEEE RAS Winter School on SLAM in Deformable Environments. The video showcases the educational sessions and international collaboration.</p>
-        </div>
-      </div>
-    </section>
+         </section>
   </div>
   <div class="right-spacer"></div>
 </div>
