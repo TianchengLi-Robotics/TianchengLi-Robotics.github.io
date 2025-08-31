@@ -73,24 +73,24 @@ a:hover {
 
 /* ===== Layout ===== */
 .container {
-  max-width: 1800px !important;
+  max-width: 90vw !important;
   margin: 0 auto !important;
   padding: 0 1rem !important;
-  width: 1800px !important;
+  width: 90vw !important;
 }
 
 body .container {
-  max-width: 1800px !important;
+  max-width: 90vw !important;
   margin: 0 auto !important;
   padding: 0 1rem !important;
-  width: 1800px !important;
+  width: 90vw !important;
 }
 
 html body .container {
-  max-width: 1800px !important;
+  max-width: 90vw !important;
   margin: 0 auto !important;
   padding: 0 1rem !important;
-  width: 1800px !important;
+  width: 90vw !important;
 }
 
 #main {
@@ -171,7 +171,7 @@ html body .container {
 .hero-content {
   text-align: center;
   width: 100%;
-  max-width: 1800px;
+  max-width: 90vw;
   margin: 0 auto;
 }
 
