@@ -36,7 +36,7 @@ title: Projects
           <li><strong>Li, T.</strong>, Walker, P., Hammoud, D., Zhao, L. and Huang, S., 2025. Partial-to-Full Registration based on Gradient-SDF for Computer-Assisted Orthopedic Surgery. In IEEE International Conference on Robotics and Automation (ICRA)). </li>
         </ul>
 
-        <h3>Demo Video</h3>
+        <!-- <h3>Demo Video</h3>
          <div class="project-demo">
            <div class="video-container">
              <iframe src="https://www.youtube.com/embed/-IMZfBUlNvY" frameborder="0" allowfullscreen></iframe>
@@ -46,7 +46,7 @@ title: Projects
              <iframe src="https://www.youtube.com/embed/U372zZRSQRU" frameborder="0" allowfullscreen></iframe>
            </div>
            <p class="demo-description">Demonstration of the bone registration for computer-assisted orthopedic surgery.</p>
-         </div>
+         </div> -->
       </div>
     </section>
 
