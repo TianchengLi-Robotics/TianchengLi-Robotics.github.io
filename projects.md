@@ -15,7 +15,7 @@ title: Projects
     <section class="project-section">
       <div class="project-header">
         <div class="project-media">
-                     <img src="https://tianchengli-robotics.github.io/THR.jpg" alt="Medical Robotics" class="project-image">
+                     <img src="https://tianchengli-robotics.github.io/images/THR.jpg" alt="Medical Robotics" class="project-image">
         </div>
         <div class="project-info">
           <h2>Development of a Low-Cost Minimally Invasive Robot System for Hip Replacement</h2>
@@ -53,7 +53,7 @@ title: Projects
     <section class="project-section">
       <div class="project-header">
         <div class="project-media">
-          <img src="https://tianchengli-robotics.github.io/EM.jpg" alt="SLAM Technology" class="project-image">
+                     <img src="https://tianchengli-robotics.github.io/images/EM.jpg" alt="SLAM Technology" class="project-image">
         </div>
         <div class="project-info">
           <h2>Evaluation of the Accuracy and Feasibility of using Electromagnetic Sensors in Hip Replacement</h2>
@@ -86,7 +86,7 @@ title: Projects
     <section class="project-section">
       <div class="project-header">
         <div class="project-media">
-          <img src="https://tianchengli-robotics.github.io/cadaver.jpg" alt="Electromagnetic Sensors" class="project-image">
+                     <img src="https://tianchengli-robotics.github.io/images/cadaver.jpg" alt="Electromagnetic Sensors" class="project-image">
         </div>
         <div class="project-info">
           <h2>Evaluation and Improvement of the Robot Systems for Assisting Hip Replacement</h2>
