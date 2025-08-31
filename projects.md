@@ -58,7 +58,7 @@ title: Projects
         <div class="project-info">
           <h2>Evaluation of the Accuracy and Feasibility of using Electromagnetic Sensors in Hip Replacement</h2>
           <div class="project-meta">
-            <span class="project-duration">Jun 2023 – Sep 2023</span>
+            <span class="project-duration">Jul 2023 – Jun 2024</span>
             <span class="project-institution">Funded by 360 Med Care Pty Ltd, Australia</span>
           </div>
         </div>
@@ -91,7 +91,7 @@ title: Projects
         <div class="project-info">
           <h2>Evaluation and Improvement of the Robot Systems for Assisting Hip Replacement</h2>
           <div class="project-meta">
-            <span class="project-duration">Feb 2022 – Aug 2022</span>
+            <span class="project-duration">Feb 2022 – Jun 2023</span>
             <span class="project-institution">Funded by PMSW Research Pty Ltd, Australia</span>
           </div>
         </div>
