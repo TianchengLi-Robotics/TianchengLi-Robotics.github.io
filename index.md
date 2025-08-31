@@ -36,7 +36,7 @@ layout: page
   <div class="left-spacer"></div>
   <div class="container" style="margin: 0 auto !important;">
     <section class="about-section">
-      <h2>About</h2>
+      <h2>About Me</h2>
       <p>
         I am currently a postdoctoral research fellow at the <a href="https://www.uts.edu.au/research/centres/robotics-institute">Robotics Institute, University of Technology Sydney (UTS)</a>, Australia, supervised by <a href="https://profiles.uts.edu.au/Shoudong.Huang">Prof. Shoudong Huang</a> and <a href="https://www.research.ed.ac.uk/en/persons/liang-zhao">A/Prof. Liang Zhao</a>. My research primarily focuses on medical robotics, computer assisted intervention, and simultaneous localization and mapping (SLAM), particularly for orthopaedic surgery.
       </p>
@@ -48,14 +48,16 @@ layout: page
         <li>
           <strong>Postdoctoral Research Fellow</strong> (Apr 2025 - Present)<br>
           <em>Robotics Institute, University of Technology Sydney (UTS), Australia</em><br>
-          Supervisors: Prof. Shoudong Huang, A/Prof. Liang Zhao<br>
-          Research focus on medical robotics and computer-assisted intervention for orthopaedic surgery, particularly developing innovative robotic systems for hip replacement procedures.
         </li>
         <li>
-          <strong>Research Assistant</strong> (Feb 2021 - Mar 2025)<br>
-          <em>Robotics Institute, University of Technology Sydney (UTS), Australia</em><br>
-          Supervisors: Prof. Shoudong Huang, A/Prof. Liang Zhao<br>
-          Conducted research on SLAM for deformable environments, electromagnetic sensor systems, and robotic-assisted surgical techniques. Contributed to multiple industry-funded projects and published several high-impact papers.
+          <strong>Teaching Assistant</strong> (Feb 2022 - Mar 2025)<br>
+          <em>School of Mechanical and Mechatronic Engineering, UTS, Australia</em><br>
+          Sensor and Control for Mechatronic Systems (UTS 41014).
+          Robotics Studio 1 (UTS 42043).
+        </li>
+        <li>
+          <strong>Research Assistant</strong> (Dec 2020 – Sep 2021)<br>
+          <em>School of Mechanical and Mechatronic Engineering, UTS, Australia</em><br>
         </li>
       </ul>
     </section>
