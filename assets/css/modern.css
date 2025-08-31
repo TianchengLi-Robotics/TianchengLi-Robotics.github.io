@@ -10,7 +10,26 @@
   padding-right: 2rem !important;
   width: 100% !important;
   box-sizing: border-box !important;
-  text-align: left !important;
+}
+
+/* Force all main content to be centered */
+.hero-section,
+.content-section,
+.navigation-wrapper {
+  display: flex !important;
+  justify-content: center !important;
+  width: 100% !important;
+}
+
+/* Ensure content inside sections is properly aligned */
+.hero-section .container,
+.content-section .container,
+.navigation-wrapper .container {
+  max-width: 1200px !important;
+  margin: 0 auto !important;
+  padding: 0 2rem !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
 }
 
 /* ===== CSS Variables ===== */
@@ -48,7 +67,6 @@ body {
   background-color: var(--bg-primary);
   margin: 0 !important;
   padding: 0 !important;
-  text-align: center !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
