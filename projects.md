@@ -4,6 +4,7 @@ permalink: /projects/index.html
 title: Projects
 ---
 
+<div class="left-spacer"></div>
 <div class="container" style="margin: 0 auto !important;">
   <section class="projects-intro">
     <h1>Research Projects</h1>
@@ -100,3 +101,4 @@ title: Projects
     </ul>
   </section>
 </div>
+<div class="right-spacer"></div>
