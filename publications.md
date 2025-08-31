@@ -16,20 +16,19 @@ title: Publications
 
     <section class="publications-list">
       <div class="publication-section">
-        <div class="publication-header">
-          <h3 class="publication-title">Physical Human-Robot Collaboration-Assisted Acetabular Preparation for Total Hip Replacement Surgery</h3>
-        </div>
-        <div class="publication-authors"Wang, Z., <strong>Li, T.</strong>, Carmichael, M., Huang, S.</div>
-        <div class="publication-venue">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025). Hangzhou, China.</div>
-        </div>
-      </div>
+         <div class="publication-header">
+           <h3 class="publication-title">Physical Human-Robot Collaboration-Assisted Acetabular Preparation for Total Hip Replacement Surgery</h3>
+         </div>
+         <div class="publication-authors">Wang, Z., <strong>Li, T.</strong>, Carmichael, M., Huang, S.</div>
+         <div class="publication-venue">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025). Hangzhou, China.</div>
+       </div>
 
       <div class="publication-section">
         <div class="publication-header">
           <h3 class="publication-title">Partial-to-Full Registration based on Gradient-SDF for Computer-Assisted Orthopedic Surgery</h3>
         </div>
         <div class="publication-authors"><strong>Li, T.</strong>, Walker, P., Hammoud, D., Zhao, L. and Huang, S.</div>
-        <div class="publication-venue">IEEE International Conference on Robotics and Automation (ICRA 2025). Yokohama, Japan.</div>
+        <div class="publication-venue">IEEE International Conference on Robotics and Automation (ICRA 2025). Atlanta, USA. </div>
         <div class="publication-links">
           <a href="https://arxiv.org/pdf/2410.03078" target="_blank" class="publication-link">arXiv</a>
         </div>
