@@ -9,7 +9,7 @@ layout: page
       <div class="hero-header">
         <img src="https://tianchengli-robotics.github.io//TianchengLi.jpg" class="hero-avatar" alt="Tiancheng Li">
         <div class="hero-text">
-          <h1 class="hero-title">wang qingye</h1>
+          <h1 class="hero-title">Tiancheng Li</h1>
           <p class="hero-subtitle">
             Postdoctoral Research Fellow<br>
             Robotics Institute, University of Technology Sydney (UTS), Australia
