@@ -525,15 +525,17 @@ html body .content-section .container {
     max-width: 100% !important;
     margin: 0 auto !important;
     padding: 0 1rem !important;
-    width: 70% !important;
+    width: 100% !important;
   }
   
   .left-spacer {
-    width: 15% !important;
+    width: 0% !important;
+    display: none !important;
   }
   
   .right-spacer {
-    width: 15% !important;
+    width: 0% !important;
+    display: none !important;
   }
   
   .navigation-content {
