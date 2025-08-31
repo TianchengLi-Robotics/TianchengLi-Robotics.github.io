@@ -46,12 +46,14 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 #  `external: true` opens the link in a new tab.
 # --------------------------------------------------
 links:
-  - title: About Me
-    url:
-#  - title: Publications
-#    url: /publications/
-#  - title: Projects
-#    url: /awards/
+  - title: Home
+    url: /
+  - title: Publications
+    url: /publications/
+  - title: Blog
+    url: /blogs/
+  - title: Awards
+    url: /awards/
 
 
 # --------------------------------------------------
