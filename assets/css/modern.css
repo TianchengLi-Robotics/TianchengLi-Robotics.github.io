@@ -16,7 +16,7 @@
   --font-serif: 'PT Serif', Georgia, serif;
   --font-mono: 'JetBrains Mono', 'Fira Code', monospace;
   --line-height: 1.6;
-  --max-width: 1400px;
+  --max-width: 1600px;
 }
 
 /* ===== Base Styles ===== */
@@ -75,7 +75,25 @@ a:hover {
 .container {
   max-width: var(--max-width) !important;
   margin: 0 auto !important;
-  padding: 0 2rem !important;
+  padding: 0 3rem !important;
+}
+
+#main {
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.article-wrap {
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.headline-wrap {
+  display: none !important;
 }
 
 /* ===== Navigation ===== */
