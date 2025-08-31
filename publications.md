@@ -40,9 +40,9 @@ title: Publications
         </div>
         <div class="publication-authors"><strong>Li, T.</strong>, Walker, P., Khonasty, R., van de Graaf, V.A., Yelf, E., Zhao, L. and Huang, S.</div>
         <div class="publication-venue">The International Journal of Medical Robotics and Computer Assisted Surgery, 20(1), p.e2615.</div>
-        <div class="publication-links">
+        <!-- <div class="publication-links">
           <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rcs.2615" target="_blank" class="publication-link">Paper</a>
-        </div>
+        </div> -->
       </div>
 
 
@@ -61,7 +61,7 @@ title: Publications
         <div class="publication-header">
           <h3 class="publication-title">2D laser SLAM with closed shape features: Fourier series parameterization and submap joining</h3>
         </div>
-        <div class="publication-authors">Zhao, J., <strong>Li, T.</strong>, Huang, S.</div>
+        <div class="publication-authors">Zhao, J., <strong>Li, T.</strong>, Zhao, L. and Huang, S.</div>
         <div class="publication-venue">IEEE Robotics and Automation Letters (RA-L).</div>
         <div class="publication-links">
           <a href="https://www.researchgate.net/profile/Jiaheng-Zhao/publication/349186569_2D_Laser_SLAM_with_Closed_Shape_Features_Fourier_Series_Parameterization_and_Submap_Joining/links/602725d2a6fdcc37a821994f/2D-Laser-SLAM-with-Closed-Shape-Features-Fourier-Series-Parameterization-and-Submap-Joining.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9" target="_blank" class="publication-link">Paper</a>
