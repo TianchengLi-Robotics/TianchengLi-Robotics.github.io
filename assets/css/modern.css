@@ -73,21 +73,24 @@ a:hover {
 
 /* ===== Layout ===== */
 .container {
-  max-width: 1800px !important;
+  max-width: 90vw !important;
   margin: 0 auto !important;
-  padding: 0 4rem !important;
+  padding: 0 1rem !important;
+  width: 90vw !important;
 }
 
 body .container {
-  max-width: 1800px !important;
+  max-width: 90vw !important;
   margin: 0 auto !important;
-  padding: 0 4rem !important;
+  padding: 0 1rem !important;
+  width: 90vw !important;
 }
 
 html body .container {
-  max-width: 1800px !important;
+  max-width: 90vw !important;
   margin: 0 auto !important;
-  padding: 0 4rem !important;
+  padding: 0 1rem !important;
+  width: 90vw !important;
 }
 
 #main {
@@ -377,7 +380,9 @@ html body .container {
 /* ===== Responsive Design ===== */
 @media (max-width: 768px) {
   .container {
-    padding: 0 1rem !important;
+    max-width: 95vw !important;
+    padding: 0 0.5rem !important;
+    width: 95vw !important;
   }
   
   .navigation-content {
