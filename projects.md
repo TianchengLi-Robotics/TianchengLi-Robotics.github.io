@@ -4,7 +4,8 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-<div class="container" style="max-width: 1200px !important; margin: 0 auto !important; padding: 0 2rem !important; width: 100% !important; box-sizing: border-box !important;">
+<div style="display: flex; justify-content: center; width: 100%;">
+<div class="container" style="margin: 0 auto !important;">
   <section class="projects-intro">
     <h1>Research Projects</h1>
     <p>Here are the key research projects I have been working on in the field of medical robotics and computer-assisted surgery.</p>
@@ -99,4 +100,5 @@ title: Projects
       <li>Coordinated virtual learning activities and discussions</li>
     </ul>
   </section>
+</div>
 </div>
