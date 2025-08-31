@@ -3,7 +3,7 @@ layout: page
 ---
 
 <div class="hero-section">
-  <div class="container">
+  <div class="container" style="max-width: 1200px !important; margin: 0 auto !important; padding: 0 2rem !important; width: 100% !important; box-sizing: border-box !important;">
     <div class="hero-content">
       <img src="https://tianchengli-robotics.github.io//TianchengLi.jpg" class="hero-avatar" alt="Tiancheng Li">
       <h1 class="hero-title">Tiancheng Li</h1>
@@ -31,7 +31,7 @@ layout: page
 </div>
 
 <div class="content-section">
-  <div class="container">
+  <div class="container" style="max-width: 1200px !important; margin: 0 auto !important; padding: 0 2rem !important; width: 100% !important; box-sizing: border-box !important;">
     <section class="about-section">
       <h2>About</h2>
       <p>
