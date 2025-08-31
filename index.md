@@ -10,10 +10,10 @@ layout: page
       <p class="hero-subtitle">
         Postdoctoral Research Fellow<br>
         Robotics Institute, University of Technology Sydney (UTS), Australia
-      <!-- </p>
+      </p>
       <p class="hero-research">
-        Research: Medical Robotics, Computer Assisted Intervention, SLAM for Orthopaedic Surgery
-      </p> -->
+        <!-- Research: Medical Robotics, Computer Assisted Intervention, SLAM for Orthopaedic Surgery -->
+      </p>
     </div>
   </div>
 </div>
