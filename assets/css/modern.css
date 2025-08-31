@@ -129,6 +129,21 @@ body .content-section .container {
   box-sizing: border-box !important;
 }
 
+/* Force centering with maximum specificity */
+html body .container,
+html body div.container,
+html body .navigation-wrapper .container,
+html body .hero-section .container,
+html body .content-section .container {
+  max-width: 1200px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+
 #main {
   width: 100% !important;
   max-width: none !important;
