@@ -35,27 +35,16 @@
   <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage">
 </div><!-- /.image-wrap -->{% endif %}
 
-<div id="main" role="main" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
-  <div class="article-author-top">
-    {% include author-bio.html %}
-  </div>
-  <article itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+<div id="main" role="main"  itemprop="mainContentOfPage">
+  <article itemscope itemtype="http://schema.org/CreativeWork">
     <div class="headline-wrap">
       <h1 itemprop="headline">{{ page.title }}</h1>
-      <h2>{{ page.tagline }}</h2>
     </div><!--/ .headline-wrap -->
     <div class="article-wrap" itemprop="text">
       {{ content }}
-      <hr />
-      <footer role="contentinfo">
-        <div class="article-author-bottom">
-          {% include author-bio.html %}
-        </div>
-        <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}" itemprop="dateModified">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %} by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><a href="{{ site.url }}/about" title="About {{ site.owner.name }}" itemprop="url">{{ site.owner.name }}</a></span></span>.</p>
-      </footer>
     </div><!-- /.article-wrap -->
   </article>
-</div><!-- /#main -->
+</div><!-- /#index -->
 
 
 <div class="footer-wrap">
