@@ -27,31 +27,6 @@ layout: page
       </p>
     </section>
 
-    <section class="research-section">
-      <h2>Research Areas</h2>
-      <div class="research-grid">
-        <div class="research-item">
-          <h3>Medical Robotics & Computer-Assisted Surgery</h3>
-          <p>Developing advanced robotic systems for orthopaedic surgery, including total hip replacement and computer-assisted intervention techniques.</p>
-        </div>
-        
-        <div class="research-item">
-          <h3>SLAM for Deformable Environments</h3>
-          <p>Research on simultaneous localization and mapping techniques specifically designed for deformable environments in medical applications.</p>
-        </div>
-        
-        <div class="research-item">
-          <h3>Electromagnetic Sensor Systems</h3>
-          <p>Design and implementation of electromagnetic sensor-based measurement systems for intraoperative applications in arthroplasty.</p>
-        </div>
-        
-        <div class="research-item">
-          <h3>Human-Robot Collaboration</h3>
-          <p>Exploring physical human-robot collaboration techniques for surgical applications, focusing on safety and precision.</p>
-        </div>
-      </div>
-    </section>
-
     <section class="news-section">
       <h2>Recent News</h2>
       <ul class="news-list">
