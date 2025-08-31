@@ -80,17 +80,17 @@ a:hover {
 }
 
 body .container {
-  max-width: 90vw !important;
+  max-width: 70vw !important;
   margin: 0 auto !important;
   padding: 0 1rem !important;
-  width: 90vw !important;
+  width: 70vw !important;
 }
 
 html body .container {
-  max-width: 90vw !important;
+  max-width: 70vw !important;
   margin: 0 auto !important;
   padding: 0 1rem !important;
-  width: 90vw !important;
+  width: 70vw !important;
 }
 
 #main {
