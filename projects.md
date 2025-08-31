@@ -20,7 +20,7 @@ title: Projects
         <div class="project-info">
           <h2>Development of a Low-Cost Minimally Invasive Robot System for Hip Replacement</h2>
           <div class="project-meta">
-            <span class="project-duration">2025 - Present</span>
+            <span class="project-duration">2024 - Present</span>
             <span class="Funding">Funded by Medical Research Council (NHMRC) Ideas Grant</span>
             <!-- <span class="project-supervisors">Prof. Shoudong Huang, A/Prof. Liang Zhao</span> -->
           </div>
@@ -53,36 +53,32 @@ title: Projects
     <section class="project-section">
       <div class="project-header">
         <div class="project-media">
-          <img src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=600&h=400&fit=crop" alt="SLAM Technology" class="project-image">
+          <img src="https://tianchengli-robotics.github.io/EM.jpg" alt="SLAM Technology" class="project-image">
         </div>
         <div class="project-info">
-          <h2>SLAM for Deformable Environments</h2>
+          <h2>Evaluation of the Accuracy and Feasibility of using Electromagnetic Sensors in Hip Replacement</h2>
           <div class="project-meta">
-            <span class="project-duration">2020 - 2023</span>
-            <span class="project-institution">University of Technology Sydney (UTS)</span>
-            <span class="project-collaborators">Dr. Jiaheng Zhao, Prof. Shoudong Huang</span>
+            <span class="project-duration">Jun 2023 – Sep 2023</span>
+            <span class="project-institution">Funded by 360 Med Care Pty Ltd, Australia</span>
           </div>
         </div>
       </div>
       
       <div class="project-content">
-        <h3>Project Description</h3>
-        <p>Research on simultaneous localization and mapping (SLAM) techniques specifically designed for deformable environments in medical applications. This project addresses the challenges of mapping and localizing in soft tissue environments during surgical procedures.</p>
+        <!-- <h3>Project Description</h3>
+        <p>Research on simultaneous localization and mapping (SLAM) techniques specifically designed for deformable environments in medical applications. This project addresses the challenges of mapping and localizing in soft tissue environments during surgical procedures.</p> -->
         
-        <h3>Key Contributions</h3>
+        <h3>Research Outcome</h3>
         <ul>
-          <li>Developed 2D laser SLAM with closed shape features using Fourier series parameterization</li>
-          <li>Implemented submap joining algorithms for large-scale deformable environments</li>
-          <li>Created real-time deformation tracking and compensation methods</li>
-          <li>Designed robust feature extraction and matching algorithms</li>
+          <li><strong>Li, T.</strong>, Song, Y., Walker, P., Pan, K., van de Graaf, V.A., Zhao, L. and Huang, S., 2023, October. A Closed-Form Solution to Electromagnetic Sensor Based Intraoperative Limb Length Measurement in Total Hip Arthroplasty. In International Conference on Medical Image Computing and Computer-Assisted Intervention (pp. 365-375). Cham: Springer Nature Switzerland.</li>
         </ul>
 
         <h3>Demo Video</h3>
         <div class="project-demo">
           <div class="video-container">
-            <iframe src="https://www.youtube.com/embed/9bZkp7q19f0" frameborder="0" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/watch?v=khKJG1jvlJ4&t=5s" frameborder="0" allowfullscreen></iframe>
           </div>
-          <p class="demo-description">Real-time demonstration of SLAM algorithm working in deformable environments. The video shows the system's ability to track and map soft tissue deformation during surgical procedures.</p>
+          <p class="demo-description">A Closed-form Solution to Electromagnetic Sensor Based Intraoperative Limb Length Measurement in Total Hip Arthroplasty</p>
         </div>
       </div>
     </section>
