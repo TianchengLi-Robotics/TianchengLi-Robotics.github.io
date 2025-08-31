@@ -166,13 +166,11 @@ a:hover {
 }
 
 .about-section,
-.research-section,
 .news-section {
   margin-bottom: 3rem;
 }
 
 .about-section h2,
-.research-section h2,
 .news-section h2 {
   font-size: 1.75rem;
   font-weight: 600;
@@ -180,34 +178,6 @@ a:hover {
   color: var(--text-primary);
   border-bottom: 2px solid var(--border-color);
   padding-bottom: 0.5rem;
-}
-
-/* ===== Research Grid ===== */
-.research-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-  margin-top: 1.5rem;
-}
-
-.research-item {
-  padding: 1.5rem;
-  background: var(--bg-secondary);
-  border: 1px solid var(--border-color);
-  border-radius: 4px;
-}
-
-.research-item h3 {
-  font-size: 1.125rem;
-  font-weight: 600;
-  margin-bottom: 0.75rem;
-  color: var(--text-primary);
-}
-
-.research-item p {
-  color: var(--text-secondary);
-  margin: 0;
-  line-height: 1.6;
 }
 
 /* ===== News List ===== */
@@ -264,8 +234,8 @@ a:hover {
 /* ===== Social Links ===== */
 .social-links {
   display: flex;
-  justify-content: center;
-  gap: 1rem;
+  flex-direction: column;
+  gap: 0.5rem;
   margin-top: 1rem;
 }
 
@@ -281,6 +251,7 @@ a:hover {
   text-decoration: none;
   font-size: 0.875rem;
   transition: all 0.2s;
+  width: fit-content;
 }
 
 .social-link:hover {
@@ -376,15 +347,6 @@ a:hover {
     font-size: 1rem;
   }
   
-  .research-grid {
-    grid-template-columns: 1fr;
-    gap: 1.5rem;
-  }
-  
-  .research-item {
-    padding: 1.25rem;
-  }
-  
   .footer-links {
     flex-direction: column;
     gap: 1rem;
@@ -427,10 +389,6 @@ a:hover {
   
   .content-section {
     padding: 2rem 0;
-  }
-  
-  .research-item {
-    padding: 1rem;
   }
   
   .projects-intro h1 {
