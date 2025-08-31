@@ -6,12 +6,16 @@ layout: page
   <div class="left-spacer"></div>
   <div class="container" style="margin: 0 auto !important;">
     <div class="hero-content">
-      <img src="https://tianchengli-robotics.github.io//TianchengLi.jpg" class="hero-avatar" alt="Tiancheng Li">
-      <h1 class="hero-title">Tiancheng Li</h1>
-      <p class="hero-subtitle">
-        Postdoctoral Research Fellow<br>
-        Robotics Institute, University of Technology Sydney (UTS), Australia
-      </p>
+      <div class="hero-header">
+        <img src="https://tianchengli-robotics.github.io//TianchengLi.jpg" class="hero-avatar" alt="Tiancheng Li">
+        <div class="hero-text">
+          <h1 class="hero-title">Tiancheng Li</h1>
+          <p class="hero-subtitle">
+            Postdoctoral Research Fellow<br>
+            Robotics Institute, University of Technology Sydney (UTS), Australia
+          </p>
+        </div>
+      </div>
       
       <div class="hero-social-links">
         <a href="mailto:tiancheng.li@uts.edu.au" class="hero-social-link" target="_blank">
