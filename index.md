@@ -31,7 +31,62 @@ layout: page
       </p>
     </div>
   </div>
-</div>  
+</div>
+
+<div id="projects" class="animate-fade-in-up">
+  <div class="container">
+    <div class="card">
+      <div class="card-header">
+        <div class="card-icon">🚀</div>
+        <h2 class="card-title">Projects</h2>
+      </div>
+      <div class="projects-grid">
+        <div class="project-item">
+          <h3>Medical Robotics & Computer-Assisted Surgery</h3>
+          <p>Developing advanced robotic systems for orthopaedic surgery, including total hip replacement and computer-assisted intervention techniques.</p>
+          <div class="project-tags">
+            <span class="tag">Robotics</span>
+            <span class="tag">Medical</span>
+            <span class="tag">Surgery</span>
+          </div>
+        </div>
+        
+        <div class="project-item">
+          <h3>SLAM for Deformable Environments</h3>
+          <p>Research on simultaneous localization and mapping techniques specifically designed for deformable environments in medical applications.</p>
+          <div class="project-tags">
+            <span class="tag">SLAM</span>
+            <span class="tag">Computer Vision</span>
+            <span class="tag">Deformable</span>
+          </div>
+        </div>
+        
+        <div class="project-item">
+          <h3>Electromagnetic Sensor Systems</h3>
+          <p>Design and implementation of electromagnetic sensor-based measurement systems for intraoperative applications in arthroplasty.</p>
+          <div class="project-tags">
+            <span class="tag">Sensors</span>
+            <span class="tag">Electromagnetic</span>
+            <span class="tag">Measurement</span>
+          </div>
+        </div>
+        
+        <div class="project-item">
+          <h3>Human-Robot Collaboration</h3>
+          <p>Exploring physical human-robot collaboration techniques for surgical applications, focusing on safety and precision.</p>
+          <div class="project-tags">
+            <span class="tag">HRI</span>
+            <span class="tag">Collaboration</span>
+            <span class="tag">Safety</span>
+          </div>
+        </div>
+      </div>
+      <div class="projects-footer">
+        <a href="/projects/" class="btn btn-outline">View All Projects</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 ---
 
