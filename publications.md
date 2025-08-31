@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-<div class="container">
+<div class="container" style="max-width: 1200px !important; margin: 0 auto !important; padding: 0 2rem !important; width: 100% !important; box-sizing: border-box !important;">
   <div class="card">
     <div class="card-header">
       <div class="card-icon">📚</div>
