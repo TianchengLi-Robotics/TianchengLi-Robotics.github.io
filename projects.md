@@ -4,7 +4,6 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-<div style="display: flex; justify-content: center; width: 100%;">
 <div class="container" style="margin: 0 auto !important;">
   <section class="projects-intro">
     <h1>Research Projects</h1>
@@ -100,5 +99,4 @@ title: Projects
       <li>Coordinated virtual learning activities and discussions</li>
     </ul>
   </section>
-</div>
 </div>
