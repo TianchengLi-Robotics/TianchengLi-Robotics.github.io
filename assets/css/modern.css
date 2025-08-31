@@ -34,10 +34,11 @@ body {
   line-height: var(--line-height);
   color: var(--text-primary);
   background-color: var(--bg-primary);
-  margin: 0;
-  padding: 0;
+  margin: 0 !important;
+  padding: 0 !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-align: center !important;
 }
 
 /* ===== Typography ===== */
@@ -77,6 +78,7 @@ a:hover {
   margin: 0 auto !important;
   padding: 0 2rem !important;
   width: 100% !important;
+  box-sizing: border-box !important;
 }
 
 body .container {
@@ -84,6 +86,7 @@ body .container {
   margin: 0 auto !important;
   padding: 0 2rem !important;
   width: 100% !important;
+  box-sizing: border-box !important;
 }
 
 html body .container {
@@ -91,6 +94,40 @@ html body .container {
   margin: 0 auto !important;
   padding: 0 2rem !important;
   width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* Force container centering with higher specificity */
+body .container,
+html body .container,
+body div.container,
+html body div.container {
+  max-width: 1200px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* Additional specificity for all container instances */
+.container,
+div.container,
+body .container,
+html body .container,
+body div.container,
+html body div.container,
+body .navigation-wrapper .container,
+body .hero-section .container,
+body .content-section .container {
+  max-width: 1200px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
 }
 
 #main {
