@@ -69,11 +69,12 @@ layout: page
     <section class="news-section">
       <h2>Recent News</h2>
       <ul class="news-list">
+        <li><strong>Jul 2025:</strong> Our navigation system for robotic-assisted orthopaedic surgery has successfully secured funding through <strong>UTS Robotics Institute Strategic Funding Initiative</strong>.</li>
         <li><strong>June 2025:</strong> Our paper Physical Human-Robot Collaboration-Assisted Acetabular Preparation for Total Hip Replacement Surgery was accepted by <strong>IROS</strong> 2025.</li>
         <li><strong>May 2025:</strong> I have submitted the final version of my Ph.D. thesis to UTS.</li>
         <li><strong>Apr 2025:</strong> I will join Robotics Institute, University of Technology Sydney as a postdoctoral research fellow.</li>
         <li><strong>Jan 2025:</strong> Our paper <a href="https://arxiv.org/pdf/2410.03078">Partial-to-Full Registration based on Gradient-SDF for Computer-Assisted Orthopedic Surgery</a> was accepted by <strong>ICRA</strong> 2025.</li>
-        <li><strong>Feb 2024:</strong> Our robotic system for total hip replacement surgery has been offically awarded a <strong>National Health and Medical Research Council (NHMRC) Ideas Grant</strong>.</li>
+        <li><strong>Oct 2024:</strong> Our robotic system for total hip replacement surgery has been offically awarded a <strong>National Health and Medical Research Council (NHMRC) Ideas Grant</strong>.</li>
         <li><strong>Feb 2024:</strong> Our paper <a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rcs.2615">Robotic‐assisted burring in total hip replacement: A new surgical technique to optimise acetabular preparation</a> was accepted by <strong>IJMRCAS</strong>.</li>
         <li><strong>May 2023:</strong> Our paper <a href="https://link.springer.com/chapter/10.1007/978-3-031-43996-4_35">A closed-form solution to electromagnetic sensor based intraoperative limb length measurement in total hip arthroplasty</a> was accepted by <strong>MICCAI</strong> 2023.</li>
         <li><strong>Jul 2021:</strong> I contributed to the origination of the international winter school "IEEE RAS Winter School on SLAM in Deformable Environments". I served as the tutor, developer, and ZOOM host.</li>
