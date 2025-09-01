@@ -70,7 +70,7 @@ layout: page
       <h2>Recent News</h2>
       <ul class="news-list">
         <li><strong>Jul 2025:</strong> Our navigation system for robotic-assisted orthopaedic surgery has successfully secured funding through <strong>UTS Robotics Institute Strategic Funding Initiative</strong>.</li>
-        <li><strong>June 2025:</strong> Our paper Physical Human-Robot Collaboration-Assisted Acetabular Preparation for Total Hip Replacement Surgery was accepted by <strong>IROS</strong> 2025.</li>
+        <li><strong>Jun 2025:</strong> Our paper Physical Human-Robot Collaboration-Assisted Acetabular Preparation for Total Hip Replacement Surgery was accepted by <strong>IROS</strong> 2025.</li>
         <li><strong>May 2025:</strong> I have submitted the final version of my Ph.D. thesis to UTS.</li>
         <li><strong>Apr 2025:</strong> I will join Robotics Institute, University of Technology Sydney as a postdoctoral research fellow.</li>
         <li><strong>Jan 2025:</strong> Our paper <a href="https://arxiv.org/pdf/2410.03078">Partial-to-Full Registration based on Gradient-SDF for Computer-Assisted Orthopedic Surgery</a> was accepted by <strong>ICRA</strong> 2025.</li>
