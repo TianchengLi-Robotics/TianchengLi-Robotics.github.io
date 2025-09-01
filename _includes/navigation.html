@@ -2,6 +2,9 @@
 	<div class="left-spacer"></div>
 	<div class="container" style="margin: 0 auto !important;">
 		<div class="navigation-content">
+			<div class="site-name">
+				<a href="{{ site.url }}">{{ site.title }}</a>
+			</div><!-- /.site-name -->
 			{% capture url %}{{ page.url | remove:'index.html' }}{% endcapture %}
 			<div class="top-navigation">
 				<nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
