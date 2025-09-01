@@ -54,7 +54,7 @@ layout: page
           <em>Robotics Institute, University of Technology Sydney (UTS), Australia</em><br>
         </li>
         <li>
-          <strong>Teaching Assistant</strong> (Feb 2022 - Mar 2025)<br>
+          <strong>Casual Academic</strong> (Feb 2022 - Mar 2025)<br>
           <em>School of Mechanical and Mechatronic Engineering, UTS, Australia</em><br>
           Sensor and Control for Mechatronic Systems (UTS 41014).
           Robotics Studio 1 (UTS 42043).
