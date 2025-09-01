@@ -861,21 +861,22 @@ html body .content-section .container {
   }
   
   .publication-link {
-    display: inline-block;
-    padding: 0.4rem 1rem;
-    background: var(--accent-color);
-    color: white;
-    text-decoration: none;
-    border-radius: 6px;
-    font-size: 0.875rem;
-    font-weight: 500;
-    transition: all 0.2s;
-  }
-  
-  .publication-link:hover {
-    background: var(--primary-color);
-    transform: translateY(-1px);
-  }
+  display: inline-block;
+  padding: 0.4rem 1rem;
+  background: var(--accent-color);
+  color: white !important;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  transition: all 0.2s;
+}
+
+.publication-link:hover {
+  background: var(--primary-color);
+  color: white !important;
+  transform: translateY(-1px);
+}
   
   .publication-status {
     display: inline-block;
