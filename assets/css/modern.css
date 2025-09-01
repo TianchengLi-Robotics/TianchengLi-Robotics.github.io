@@ -146,13 +146,38 @@ p {
 }
 
 a {
-  color: var(--accent-color);
+  color: var(--accent-color) !important;
   text-decoration: none;
   border-bottom: 1px solid transparent;
 }
 
 a:hover {
-  border-bottom-color: var(--accent-color);
+  border-bottom-color: var(--accent-color) !important;
+  color: var(--accent-color) !important;
+}
+
+/* Force all links to use consistent styling */
+p a,
+li a,
+em a,
+a em,
+.about-section a,
+.news-section a,
+.experience-section a {
+  color: var(--accent-color) !important;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+p a:hover,
+li a:hover,
+em a:hover,
+a em:hover,
+.about-section a:hover,
+.news-section a:hover,
+.experience-section a:hover {
+  border-bottom-color: var(--accent-color) !important;
+  color: var(--accent-color) !important;
 }
 
 /* ===== Layout ===== */
