@@ -284,7 +284,7 @@ html body .content-section .container {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem 0;
+  padding: 0.5rem 0;
   max-width: 800px;
   width: 50%;
   margin: 0 auto;
