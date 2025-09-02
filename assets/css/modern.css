@@ -367,7 +367,7 @@ html body .content-section .container {
 
 /* ===== Hero Section ===== */
 .hero-section {
-  padding: 2rem 0;
+  padding: 1.5rem 0;
   background: linear-gradient(135deg, var(--bg-secondary) 0%, var(--bg-primary) 100%);
   border-bottom: 1px solid var(--border-color);
   width: 100vw !important;
@@ -1029,7 +1029,7 @@ html body .content-section .container {
 
 @media (max-width: 480px) {
   .hero-section {
-    padding: 1.5rem 0;
+    padding: 1rem 0;
   }
   
   .hero-header {
