@@ -69,6 +69,7 @@ layout: page
     <section class="news-section">
       <h2>Recent News</h2>
       <ul class="news-list">
+        <li><strong>Apr 2026:</strong> Our workshop <a href="https://rcba-workshop.github.io/rss2026/">"From Perception to Action: Representation-Centric Robot Autonomy"</a> has been accepted by <strong>Robotics: Science and Systems (RSS 2026)</strong>.</li>
         <li><strong>Jul 2025:</strong> Our navigation system for robotic-assisted orthopaedic surgery has successfully secured funding through <strong>UTS Robotics Institute Strategic Funding Initiative</strong>.</li>
         <li><strong>Jun 2025:</strong> Our paper Physical Human-Robot Collaboration-Assisted Acetabular Preparation for Total Hip Replacement Surgery was accepted by <strong>IROS</strong> 2025.</li>
         <li><strong>May 2025:</strong> I have submitted the final version of my Ph.D. thesis to UTS.</li>
