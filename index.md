@@ -69,13 +69,13 @@ layout: page
     <section class="news-section">
       <h2>Recent News</h2>
       <ul class="news-list">
-      <li><strong>Jul 2026:</strong> I will serve as Chief Investigator (CI) for the industry-funded project “AI Validation and Benchmarking Framework for Dental Implant Planning,” supported by <strong>K & C Cheung Pty Ltd</strong>.</li>
+      <li><strong>Jul 2026:</strong> Our project “AI Validation and Benchmarking Framework for Dental Implant Planning” has received <strong> industry funding from K & C Cheung Pty Ltd</strong>, with me joining the project as a Chief Investigator (CI).</li>
       <!--  <li><strong>Jun 2026:</strong> Our paper “Disturbance-Resilient Trajectory Tracking of Robotic Manipulators via Model Predictive Contouring Control” was accepted by <strong>IROS 2026</strong>.</li>    -->
         <li><strong>May 2026:</strong> I will give an Early Career Talk at the <strong>2026 RSS workshop </strong> <a href="https://sites.google.com/view/ai-and-healthcare-robotics/home">"Bridging AI and Robotics: Towards Safer and Smarter Surgery"</a>.</li>
         <li><strong>Apr 2026:</strong> Our workshop <a href="https://rcba-workshop.github.io/rss2026/">"From Perception to Action: Representation-Centric Robot Autonomy"</a> has been accepted by <strong>Robotics: Science and Systems (RSS) 2026</strong>.</li>
         <li><strong>Jul 2025:</strong> Our navigation system for robotic-assisted orthopaedic surgery has successfully secured funding through <strong>UTS Robotics Institute Strategic Funding Initiative</strong>.</li>
        <!-- <li><strong>Jun 2025:</strong> Our paper “Physical Human-Robot Collaboration-Assisted Acetabular Preparation for Total Hip Replacement Surgery” was accepted by <strong>IROS 2025</strong>.</li>  -->
-        <li><strong>May 2025:</strong> I have submitted the final version of my Ph.D. thesis to UTS.</li>
+        <li><strong>May 2025:</strong> I have submitted my Ph.D. thesis at UTS.</li>
         <li><strong>Apr 2025:</strong> I will join Robotics Institute, University of Technology Sydney as a postdoctoral research fellow.</li>
        <!-- <li><strong>Jan 2025:</strong> Our paper <a href="https://arxiv.org/pdf/2410.03078">“Partial-to-Full Registration based on Gradient-SDF for Computer-Assisted Orthopedic Surgery”</a> was accepted by <strong>ICRA 2025</strong>.</li>  -->
         <li><strong>Oct 2024:</strong> Our robotic system for total hip replacement surgery has been offically awarded a <strong>National Health and Medical Research Council (NHMRC) Ideas Grant</strong>.</li>
