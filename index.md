@@ -70,7 +70,7 @@ layout: page
       <h2>Recent News</h2>
       <ul class="news-list">
       <li><strong>Jul 2026:</strong> Our project “AI Validation and Benchmarking Framework for Dental Implant Planning” has received <strong> industry funding from K & C Cheung Pty Ltd</strong>, with me serving as one of Principal Investigators (PIs).</li>
-      <li><strong>Jun 2026:</strong> Our paper “MR-MPCC: Model Predictive Contouring Control for Robotic Manipulator Tracking under Moving Reference Frames” was accepted by <strong>IROS 2026 (Travel Award)</strong>.</li>
+      <li><strong>Jun 2026:</strong> Our paper “MR-MPCC: Model Predictive Contouring Control for Robotic Manipulator Tracking under Moving Reference Frames” was accepted by <strong>IROS 2026 (IEEE RAS Travel Award)</strong>.</li>
         <li><strong>May 2026:</strong> I will give an Early Career Talk at the <strong>2026 RSS workshop </strong> <a href="https://sites.google.com/view/ai-and-healthcare-robotics/home">"Bridging AI and Robotics: Towards Safer and Smarter Surgery"</a>.</li>
         <li><strong>Apr 2026:</strong> Our workshop <a href="https://rcba-workshop.github.io/rss2026/">"From Perception to Action: Representation-Centric Robot Autonomy"</a> has been accepted by <strong>Robotics: Science and Systems (RSS) 2026</strong>.</li>
         <li><strong>Jul 2025:</strong> Our navigation system for robotic-assisted orthopaedic surgery has successfully secured funding through <strong>UTS Robotics Institute Strategic Funding Initiative</strong>.</li>
