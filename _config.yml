@@ -1,34 +1,27 @@
 # --------------------------------------------------
 #  BASIC SITE INFO
 # --------------------------------------------------
-title: Tiancheng Li   # Main site title (appears in browser tab & RSS)
-# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
+title: Tiancheng Li
+url: https://tianchengli-robotics.github.io
+description: Medical robotics, computer-assisted surgery, and SLAM research by Tiancheng Li at UTS.
 # description: Two roads diverged in woods, I took the one less traveled by.  # Strongly recommended for SEO & social cards
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-# url: https://caihanlin.com
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
   name: Tiancheng Li
-  avatar: TC.jpg
+  avatar: TianchengLi.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: tiancheng.li@uts.edu.au
 
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  # github: GuangLun2000
   linkedin: tiancheng-li-robotics
   scholar: https://scholar.google.com/citations?user=BA8TUoAAAAAJ&hl=en
- # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
- # zhihu: https://www.zhihu.com/people/chlire
- # xiaohongshu: 5c27848f0000000005030c6f
- # bilibili: 594030035
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
   # lastfm:
   # tumblr:
 
@@ -36,7 +29,6 @@ owner:
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
 # --------------------------------------------------
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # google_analytics: "G-XXXXXXX"                                 # GA-4 property ID
 
@@ -57,7 +49,7 @@ links:
 # --------------------------------------------------
 #  BUILD & RENDERING OPTIONS
 # --------------------------------------------------
-timezone: Asia/Shanghai          # IANA time-zone ID (China/Beijing is invalid)
+timezone: Australia/Sydney
 future: true                     # Render posts dated in the future
 highlighter: rouge               # Code highlighter; Rouge is default in MM
 # markdown: kramdown             # Jekyll default; uncomment to force
@@ -91,8 +83,6 @@ kramdown:
 # --------------------------------------------------
 #  DISQUS COMMENT SYSTEM
 # --------------------------------------------------
-disqus:
-  shortname: lancecai
 
 
 # include: [".htaccess"]
@@ -103,6 +93,11 @@ disqus:
 # --------------------------------------------------
 include: [".htaccess"]           # Files to force-include in the build
 exclude:                         # Folders/files ignored during build
+  - "file/proposal.pdf"
+  - "file/proposal-2023.pdf"
+  - "README.md"
+  - "OPTIMIZATION_README.md"
+  - ".idea"
   - "lib"
   - "config.rb"
   - "Capfile"

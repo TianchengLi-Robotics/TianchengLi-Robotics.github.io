@@ -7,7 +7,7 @@ layout: page
   <div class="container" style="margin: 0 auto !important;">
     <div class="hero-content">
       <div class="hero-header">
-        <img src="https://tianchengli-robotics.github.io//TianchengLi.jpg" class="hero-avatar" alt="Tiancheng Li">
+        <img src="/TianchengLi.jpg" class="hero-avatar" alt="Tiancheng Li">
         <div class="hero-text">
           <h1 class="hero-title">Tiancheng Li</h1>
           <p class="hero-subtitle">
