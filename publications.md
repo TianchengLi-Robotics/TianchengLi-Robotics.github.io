@@ -9,7 +9,6 @@ title: Publications
     <section class="publications-intro">
       <span class="eyebrow">Research output</span>
       <h1>Selected Publications</h1>
-      <p>Medical robotics, computer-assisted intervention, and SLAM. <a href="https://scholar.google.com/citations?user=BA8TUoAAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Full list on Google Scholar ↗</a></p>
 
     </section>
 
