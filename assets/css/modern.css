@@ -29,27 +29,32 @@ strong { color: var(--ink); font-weight: 600; }
 .top-navigation ul { display: flex; gap: 30px; list-style: none; padding: 0; margin: 0; }
 .top-navigation a { display: block; padding: 26px 0; font-size: .88rem; color: var(--muted); border-bottom: 2px solid transparent; }
 .top-navigation a[aria-current='page'] { color: var(--accent); border-bottom-color: var(--accent); }
-.hero-section { padding: 72px 0 56px; border-bottom: 1px solid var(--line); }
-.hero-header { display: flex; flex-direction: row-reverse; justify-content: space-between; align-items: center; gap: 56px; }
-.hero-text { flex: 1; }
+.hero-section { padding: 48px 0 40px; border-bottom: 1px solid var(--line); }
+.hero-header { display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 24px; }
+.hero-text { text-align: center; }
 .eyebrow { display: block; margin: 0 0 16px; font-size: .72rem; font-weight: 600; letter-spacing: .16em; text-transform: uppercase; color: var(--accent); }
-.hero-title { margin-bottom: 20px; }
-.hero-subtitle { font-size: 1.1rem; max-width: 590px; }
-.hero-avatar { width: 205px; height: 245px; object-fit: cover; object-position: center 25%; border-radius: 5px; }
-.research-tags { display: flex; flex-wrap: wrap; gap: 8px; padding: 0; margin: 24px 0 0; list-style: none; }
+.hero-title { font-size: clamp(2.2rem, 4vw, 2.8rem); margin-bottom: 14px; }
+.hero-subtitle { font-size: 1rem; max-width: 620px; margin: 0 auto; }
+.hero-avatar { width: 155px; height: 185px; object-fit: cover; object-position: center 25%; border-radius: 5px; }
+.research-tags { display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; padding: 0; margin: 24px 0 0; list-style: none; }
 .research-tags li { font-size: .75rem; color: var(--accent); padding: 5px 11px; border: 1px solid #cbdedb; border-radius: 3px; }
-.hero-social-links { display: flex; flex-wrap: wrap; gap: 24px; margin-top: 26px; }
+.hero-social-links { display: flex; justify-content: center; flex-wrap: wrap; gap: 24px; margin-top: 26px; }
 .hero-social-link { display: inline-flex; align-items: center; gap: 7px; font-size: .85rem; font-weight: 500; }
 .hero-social-icon { width: 16px; height: 16px; }
 .content-section { padding: 56px 0 80px; }
-.home-grid { display: grid; grid-template-columns: minmax(0, 1fr) 300px; column-gap: 64px; row-gap: 52px; }
+.home-grid { width: min(100% - 64px, 800px); display: flex; flex-direction: column; gap: 44px; }
+.home-grid section h2 { text-align: center; font-size: 1.55rem; margin-bottom: 26px; }
+.home-grid .about-section { text-align: center; }
+.home-grid .experience-section { order: 3; }
+.home-grid .news-section { order: 2; }
+.home-grid .about-section { order: 1; }
 .about-section { grid-column: 1; }
 .experience-section { grid-column: 2; grid-row: 1 / span 2; }
 .news-section { grid-column: 1; }
 .about-section p { margin-bottom: 0; }
 .experience-section h2 { font-size: 1.2rem; }
 .experience-list, .news-list { list-style: none; padding: 0; margin: 0; }
-.experience-list li { border-left: 2px solid var(--line); padding: 0 0 28px 20px; font-size: .83rem; color: var(--muted); }
+.experience-list li { border-left: 2px solid var(--line); padding: 0 0 28px 20px; font-size: .9rem; color: var(--muted); }
 .experience-list em { font-style: normal; }
 .experience-list strong { display: inline; }
 .news-list li { padding: 17px 0; border-bottom: 1px solid var(--line); color: var(--muted); font-size: .9rem; }
@@ -103,13 +108,13 @@ strong { color: var(--ink); font-weight: 600; }
   .footer-content { align-items: flex-start; flex-direction: column; gap: 12px; }
 }
 @media (max-width: 540px) {
-  .container, .footer-content { width: calc(100% - 40px); }
+  .container, .footer-content, .home-grid { width: calc(100% - 40px); }
   .navigation-content { min-height: 70px; gap: 12px; }
   .site-name { font-size: .85rem; }
   .top-navigation ul { gap: 15px; }
   .top-navigation a { font-size: .76rem; padding: 22px 0; }
   .hero-section { padding: 40px 0; }
-  .hero-header { flex-direction: column; align-items: flex-start; gap: 24px; }
+  .hero-header { flex-direction: column; align-items: center; gap: 24px; }
   .hero-avatar { width: 120px; height: 145px; }
   .hero-subtitle { font-size: 1rem; }
   .content-section { padding: 40px 0 56px; }
