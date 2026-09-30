@@ -43,7 +43,7 @@ strong { color: var(--ink); font-weight: 600; }
 .hero-social-link { display: inline-flex; align-items: center; gap: 7px; font-size: .85rem; font-weight: 500; }
 .hero-social-icon { width: 16px; height: 16px; }
 .content-section { padding: 56px 0 80px; }
-.home-grid { width: min(100% - 64px, 940px); display: grid; grid-template-columns: minmax(0, 1fr) 260px; column-gap: 44px; row-gap: 40px; }
+.home-grid { width: min(100% - 64px, 940px); display: grid; grid-template-columns: minmax(0, 1fr) 290px; column-gap: 44px; row-gap: 40px; }
 .home-grid section h2 { font-size: 1.5rem; margin-bottom: 22px; }
 .home-grid .experience-section h2 { font-size: 1.2rem; }
 .home-grid .about-section p, .news-list li { text-align: justify; text-justify: inter-word; }
@@ -54,9 +54,15 @@ strong { color: var(--ink); font-weight: 600; }
 .about-section p { margin-bottom: 0; }
 .experience-section h2 { font-size: 1.2rem; }
 .experience-list, .news-list { list-style: none; padding: 0; margin: 0; }
-.experience-list li { border-left: 2px solid var(--line); padding: 0 0 28px 16px; font-size: .85rem; color: var(--muted); }
+.experience-list li { padding: 20px 0; border-bottom: 1px solid var(--line); font-size: .85rem; color: var(--muted); }
+.experience-list li:first-child { padding-top: 0; }
+.experience-list li:last-child { border-bottom: 0; padding-bottom: 0; }
+.experience-role { display: block; font-size: .88rem; line-height: 1.45; margin-bottom: 5px; }
+.experience-date { display: block; font-size: .75rem; color: var(--accent); margin-bottom: 9px; font-variant-numeric: tabular-nums; }
+.experience-institution { font-size: .82rem; line-height: 1.6; margin: 0; }
+.experience-detail { font-size: .77rem; line-height: 1.65; margin: 10px 0 0; }
 .experience-list em { font-style: normal; }
-.experience-list strong { display: inline; }
+
 .news-list li { padding: 17px 0; border-bottom: 1px solid var(--line); color: var(--muted); font-size: .9rem; }
 .news-list li:first-child { padding-top: 0; }
 .news-date { display: block; margin-bottom: 5px; font-size: .73rem; font-weight: 600; letter-spacing: .05em; color: var(--accent); }

@@ -51,18 +51,20 @@ layout: page
       <h2>Experience</h2>
       <ul class="experience-list">
         <li>
-          <strong>Postdoctoral Research Fellow</strong> (Apr 2025 - Present)<br>
-          <em>Robotics Institute, University of Technology Sydney (UTS), Australia</em><br>
+          <strong class="experience-role">Postdoctoral Research Fellow</strong>
+          <span class="experience-date">Apr 2025 – Present</span>
+          <p class="experience-institution">Robotics Institute · UTS</p>
         </li>
         <li>
-          <strong>Casual Academic</strong> (Feb 2022 - Mar 2025)<br>
-          <em>School of Mechanical and Mechatronic Engineering, UTS, Australia</em><br>
-          Sensor and Control for Mechatronic Systems (UTS 41014).
-          Robotics Studio 1 (UTS 42043).
+          <strong class="experience-role">Casual Academic</strong>
+          <span class="experience-date">Feb 2022 – Mar 2025</span>
+          <p class="experience-institution">Mechanical and Mechatronic Engineering · UTS</p>
+          <p class="experience-detail">Teaching: Sensor and Control for Mechatronic Systems (41014); Robotics Studio 1 (42043).</p>
         </li>
         <li>
-          <strong>Research Assistant</strong> (Dec 2020 – Sep 2021)<br>
-          <em>School of Mechanical and Mechatronic Engineering, UTS, Australia</em><br>
+          <strong class="experience-role">Research Assistant</strong>
+          <span class="experience-date">Dec 2020 – Sep 2021</span>
+          <p class="experience-institution">Mechanical and Mechatronic Engineering · UTS</p>
         </li>
       </ul>
     </section>
