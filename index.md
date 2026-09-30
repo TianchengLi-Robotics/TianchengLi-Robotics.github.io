@@ -39,6 +39,7 @@ layout: page
 
 <div class="content-section">
   <div class="container home-grid">
+    <div class="home-primary">
     <section class="about-section">
       <h2>About Me</h2>
       <p>
@@ -46,29 +47,6 @@ layout: page
       </p>
       <a class="section-link" href="/projects/">Explore research projects <span aria-hidden="true">↗</span></a>
     </section>
-
-    <section class="experience-section">
-      <h2>Experience</h2>
-      <ul class="experience-list">
-        <li>
-          <strong class="experience-role">Postdoctoral Research Fellow</strong>
-          <span class="experience-date">Apr 2025 – Present</span>
-          <p class="experience-institution">Robotics Institute · UTS</p>
-        </li>
-        <li>
-          <strong class="experience-role">Casual Academic</strong>
-          <span class="experience-date">Feb 2022 – Mar 2025</span>
-          <p class="experience-institution">Mechanical and Mechatronic Engineering · UTS</p>
-          <p class="experience-detail">Teaching: Sensor and Control for Mechatronic Systems (41014); Robotics Studio 1 (42043).</p>
-        </li>
-        <li>
-          <strong class="experience-role">Research Assistant</strong>
-          <span class="experience-date">Dec 2020 – Sep 2021</span>
-          <p class="experience-institution">Mechanical and Mechatronic Engineering · UTS</p>
-        </li>
-      </ul>
-    </section>
-
     <section class="news-section">
       <h2>Recent News</h2>
       <ul class="news-list">
@@ -91,6 +69,28 @@ layout: page
 <li><span class="news-date">Feb 2021</span> Our paper <a href="https://www.researchgate.net/profile/Jiaheng-Zhao/publication/349186569_2D_Laser_SLAM_with_Closed_Shape_Features_Fourier_Series_Parameterization_and_Submap_Joining/links/602725d2a6fdcc37a821994f/2D-Laser-SLAM-with-Closed-Shape-Features-Fourier-Series-Parameterization-and-Submap-Joining.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9">“2D laser SLAM with closed shape features: Fourier series parameterization and submap joining”</a> was accepted by <strong>RA-L</strong>.</li>
         </ul>
       </details>
+    </section>
+    </div>
+    <section class="experience-section">
+      <h2>Experience</h2>
+      <ul class="experience-list">
+        <li>
+          <strong class="experience-role">Postdoctoral Research Fellow</strong>
+          <span class="experience-date">Apr 2025 – Present</span>
+          <p class="experience-institution">Robotics Institute · UTS</p>
+        </li>
+        <li>
+          <strong class="experience-role">Casual Academic</strong>
+          <span class="experience-date">Feb 2022 – Mar 2025</span>
+          <p class="experience-institution">Mechanical and Mechatronic Engineering · UTS</p>
+          <p class="experience-detail">Teaching: Sensor and Control for Mechatronic Systems (41014); Robotics Studio 1 (42043).</p>
+        </li>
+        <li>
+          <strong class="experience-role">Research Assistant</strong>
+          <span class="experience-date">Dec 2020 – Sep 2021</span>
+          <p class="experience-institution">Mechanical and Mechatronic Engineering · UTS</p>
+        </li>
+      </ul>
     </section>
   </div>
 </div>
