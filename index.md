@@ -42,7 +42,7 @@ layout: page
     <section class="about-section">
       <h2>About Me</h2>
       <p>
-        I am currently a postdoctoral research fellow at the <a href="https://www.uts.edu.au/research/centres/robotics-institute">Robotics Institute, University of Technology Sydney (UTS)</a>, Australia, supervised by <a href="https://profiles.uts.edu.au/Shoudong.Huang">Prof. Shoudong Huang</a> and <a href="https://www.research.ed.ac.uk/en/persons/liang-zhao">A/Prof. Liang Zhao</a>. My research primarily focuses on medical robotics, computer assisted intervention, and simultaneous localization and mapping (SLAM), particularly for orthopaedic surgery.
+        I am a Postdoctoral Research Fellow at the <a href="https://www.uts.edu.au/research/centres/robotics-institute">Robotics Institute, University of Technology Sydney (UTS)</a>, Australia, collaborating closely with <a href="https://profiles.uts.edu.au/Shoudong.Huang">Prof. Shoudong Huang</a> and <a href="https://www.research.ed.ac.uk/en/persons/liang-zhao">A/Prof. Liang Zhao</a>. My research interests include <strong>robot perception, control, and medical robotics</strong>. My work focuses on simultaneous localization and mapping (SLAM), surgical navigation, and the development of robotic systems for computer-assisted interventions.
       </p>
       <a class="section-link" href="/projects/">Explore research projects <span aria-hidden="true">↗</span></a>
     </section>
