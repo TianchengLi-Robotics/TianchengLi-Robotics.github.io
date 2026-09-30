@@ -81,13 +81,13 @@ layout: page
         <li>
           <strong class="experience-role">Casual Academic</strong>
           <span class="experience-date">Feb 2022 – Mar 2025</span>
-          <p class="experience-institution">Mechanical and Mechatronic Engineering · UTS</p>
+          <p class="experience-institution">School of Mechanical and Mechatronic Engineering<br>University of Technology Sydney (UTS)</p>
           <p class="experience-detail">Teaching: Sensor and Control for Mechatronic Systems (41014); Robotics Studio 1 (42043).</p>
         </li>
         <li>
           <strong class="experience-role">Research Assistant</strong>
           <span class="experience-date">Dec 2020 – Sep 2021</span>
-          <p class="experience-institution">Mechanical and Mechatronic Engineering · UTS</p>
+          <p class="experience-institution">School of Mechanical and Mechatronic Engineering<br>University of Technology Sydney (UTS)</p>
         </li>
       </ul>
     </section>
