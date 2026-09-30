@@ -76,7 +76,7 @@ layout: page
         <li>
           <strong class="experience-role">Postdoctoral Research Fellow</strong>
           <span class="experience-date">Apr 2025 – Present</span>
-          <p class="experience-institution">Robotics Institute · UTS</p>
+          <p class="experience-institution">Robotics Institute<br>University of Technology Sydney (UTS)</p>
         </li>
         <li>
           <strong class="experience-role">Casual Academic</strong>
