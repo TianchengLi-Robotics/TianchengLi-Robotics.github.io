@@ -38,16 +38,20 @@ title: Projects
 
         <h3>Demo Video</h3>
          <div class="project-demo">
-           <div class="video-container">
+           <div class="demo-item">
+<div class="video-container">
              <iframe title="Hip replacement robotic system demonstration" loading="lazy" src="https://www.youtube.com/embed/-IMZfBUlNvY" frameborder="0" allowfullscreen></iframe>
            </div>
            <p class="demo-description">Phantom demonstration of robotic-assisted surgical system for total hip replacement</p>
            <a class="video-link" href="https://www.youtube.com/watch?v=-IMZfBUlNvY" target="_blank" rel="noopener noreferrer">Watch on YouTube ↗</a>
-           <div class="video-container">
+</div>
+           <div class="demo-item">
+<div class="video-container">
              <iframe title="Gradient-SDF bone registration demonstration" loading="lazy" src="https://www.youtube.com/embed/U372zZRSQRU" frameborder="0" allowfullscreen></iframe>
            </div>
            <p class="demo-description">Demonstration of the bone registration for computer-assisted orthopedic surgery.</p>
            <a class="video-link" href="https://www.youtube.com/watch?v=U372zZRSQRU" target="_blank" rel="noopener noreferrer">Watch on YouTube ↗</a>
+</div>
          </div>
       </div>
     </section>
@@ -76,11 +80,13 @@ title: Projects
 
         <h3>Demo Video</h3>
         <div class="project-demo">
-                     <div class="video-container">
+                     <div class="demo-item">
+<div class="video-container">
              <iframe title="Electromagnetic limb length measurement demonstration" loading="lazy" src="https://www.youtube.com/embed/khKJG1jvlJ4" frameborder="0" allowfullscreen></iframe>
            </div>
           <p class="demo-description">A Closed-form Solution to Electromagnetic Sensor Based Intraoperative Limb Length Measurement in Total Hip Arthroplasty</p>
            <a class="video-link" href="https://www.youtube.com/watch?v=khKJG1jvlJ4" target="_blank" rel="noopener noreferrer">Watch on YouTube ↗</a>
+</div>
         </div>
       </div>
     </section>
@@ -108,11 +114,13 @@ title: Projects
 
         <h3>Demo Video</h3>
         <div class="project-demo">
-                     <div class="video-container">
+                     <div class="demo-item">
+<div class="video-container">
              <iframe title="Cadaver experiment of robotic burring" loading="lazy" src="https://www.youtube.com/embed/087r2_M9MmE" frameborder="0" allowfullscreen></iframe>
            </div>
           <p class="demo-description">Cadaver Experiment of Robotic Burring System for Total Hip Replacement Surgery.</p>
            <a class="video-link" href="https://www.youtube.com/watch?v=087r2_M9MmE" target="_blank" rel="noopener noreferrer">Watch on YouTube ↗</a>
+</div>
         </div>
       </div>
          </section>
