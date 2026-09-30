@@ -39,7 +39,8 @@ strong { color: var(--ink); font-weight: 600; }
 .hero-subtitle { font-size: 1rem; max-width: 620px; margin: 0; }
 .hero-avatar { width: 185px; height: 220px; flex-shrink: 0; margin-right: 36px; object-fit: cover; object-position: center 25%; border-radius: 5px; }
 .research-tags { display: flex; flex-wrap: wrap; gap: 8px; padding: 0; margin: 24px 0 0; list-style: none; }
-.research-tags li { font-size: .75rem; color: var(--accent); padding: 5px 11px; border: 1px solid #cbdedb; border-radius: 3px; }
+.research-tags li { font-size: .82rem; color: var(--accent); padding: 0; }
+.research-tags li + li::before { content: "·"; margin-right: 8px; color: var(--muted); }
 .hero-social-links { display: flex; flex-wrap: wrap; gap: 24px; margin-top: 26px; }
 .hero-social-link { display: inline-flex; align-items: center; gap: 7px; font-size: .85rem; font-weight: 500; }
 .hero-social-icon { width: 16px; height: 16px; }

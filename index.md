@@ -14,7 +14,7 @@ layout: page
             Robotics Institute, University of Technology Sydney (UTS), Australia
           </p>
           <ul class="research-tags" aria-label="Research interests">
-            <li>Medical robotics</li><li>Computer-assisted surgery</li><li>SLAM</li>
+            <li>Robot Perception</li><li>Robot Control</li><li>Medical Robotics</li>
           </ul>
         </div>
       </div>
