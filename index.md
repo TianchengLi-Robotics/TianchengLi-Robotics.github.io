@@ -6,7 +6,7 @@ layout: page
   <div class="container">
     <div class="hero-content">
       <div class="hero-header">
-        <img src="/TianchengLi.jpg" width="205" height="245" class="hero-avatar" alt="Tiancheng Li">
+        <img src="/images/profile.jpg" width="205" height="245" class="hero-avatar" alt="Tiancheng Li">
         <div class="hero-text">
           <h1 class="hero-title">Tiancheng Li</h1>
           <p class="hero-subtitle">
