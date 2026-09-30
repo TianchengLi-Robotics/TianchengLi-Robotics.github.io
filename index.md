@@ -49,7 +49,7 @@ layout: page
     <section class="news-section">
       <h2>Recent News</h2>
       <ul class="news-list">
-<li><span class="news-date">Jul 2026</span> Our project “AI Validation and Benchmarking Framework for Dental Implant Planning” has received <strong> industry funding from K & C Cheung Pty Ltd</strong>, with me serving as one of Principal Investigators (PIs).</li>
+<li><span class="news-date">Jul 2026</span> Our project, “AI Validation and Benchmarking Framework for Dental Implant Planning,” has secured industry funding from <strong>K &amp; C Cheung Pty Ltd</strong>. I serve as one of the project’s <strong>Principal Investigators</strong>.</li>
 <li><span class="news-date">Jun 2026</span> Our paper “MR-MPCC: Model Predictive Contouring Control for Robotic Manipulator Tracking under Moving Reference Frames” was accepted by <strong>IROS 2026 (IEEE RAS Travel Award)</strong>.</li>
 <li><span class="news-date">May 2026</span> I will give an Early Career Talk at the <strong>2026 RSS workshop </strong> <a href="https://sites.google.com/view/ai-and-healthcare-robotics/home">"Bridging AI and Robotics: Towards Safer and Smarter Surgery"</a>.</li>
 <li><span class="news-date">Apr 2026</span> Our workshop <a href="https://rcba-workshop.github.io/rss2026/">"From Perception to Action: Representation-Centric Robot Autonomy"</a> has been accepted by <strong>Robotics: Science and Systems (RSS) 2026</strong>.</li>
