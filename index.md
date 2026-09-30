@@ -53,16 +53,16 @@ layout: page
 <li><span class="news-date">Jun 2026</span> Our paper “MR-MPCC: Model Predictive Contouring Control for Robotic Manipulator Tracking under Moving Reference Frames” was accepted by <strong>IROS 2026 (IEEE RAS Travel Award)</strong>.</li>
 <li><span class="news-date">May 2026</span> I will give an Early Career Talk at the <strong>2026 RSS workshop </strong> <a href="https://sites.google.com/view/ai-and-healthcare-robotics/home">"Bridging AI and Robotics: Towards Safer and Smarter Surgery"</a>.</li>
 <li><span class="news-date">Apr 2026</span> Our workshop <a href="https://rcba-workshop.github.io/rss2026/">"From Perception to Action: Representation-Centric Robot Autonomy"</a> has been accepted by <strong>Robotics: Science and Systems (RSS) 2026</strong>.</li>
-      </ul>
-      <details class="news-archive">
-        <summary>Earlier updates</summary>
-        <ul class="news-list">
 <li><span class="news-date">Jul 2025</span> Our navigation system for robotic-assisted orthopaedic surgery has successfully secured funding through <strong>UTS Robotics Institute Strategic Funding Initiative</strong>.</li>
 <li><span class="news-date">Jun 2025</span> Our paper “Physical Human-Robot Collaboration-Assisted Acetabular Preparation for Total Hip Replacement Surgery” was accepted by <strong>IROS 2025</strong>.</li>
 <li><span class="news-date">May 2025</span> I submitted my Ph.D. thesis at UTS.</li>
 <li><span class="news-date">Apr 2025</span> I joined the Robotics Institute at the University of Technology Sydney as a postdoctoral research fellow.</li>
 <li><span class="news-date">Jan 2025</span> Our paper <a href="https://arxiv.org/pdf/2410.03078">“Partial-to-Full Registration based on Gradient-SDF for Computer-Assisted Orthopedic Surgery”</a> was accepted by <strong>ICRA 2025</strong>.</li>
 <li><span class="news-date">Oct 2024</span> Our robotic system for total hip replacement surgery has been officially awarded a <strong>National Health and Medical Research Council (NHMRC) Ideas Grant</strong>.</li>
+      </ul>
+      <details class="news-archive">
+        <summary>Earlier updates</summary>
+        <ul class="news-list">
 <li><span class="news-date">May 2023</span> Our paper <a href="https://link.springer.com/chapter/10.1007/978-3-031-43996-4_35">“A closed-form solution to electromagnetic sensor based intraoperative limb length measurement in total hip arthroplasty”</a> was accepted by <strong>MICCAI 2023</strong>.</li>
 <li><span class="news-date">Jul 2021</span> I contributed to the origination of the international winter school "IEEE RAS Winter School on SLAM in Deformable Environments". I served as the tutor, developer, and ZOOM host.</li>
 <li><span class="news-date">Feb 2021</span> Our paper <a href="https://www.researchgate.net/profile/Jiaheng-Zhao/publication/349186569_2D_Laser_SLAM_with_Closed_Shape_Features_Fourier_Series_Parameterization_and_Submap_Joining/links/602725d2a6fdcc37a821994f/2D-Laser-SLAM-with-Closed-Shape-Features-Fourier-Series-Parameterization-and-Submap-Joining.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9">“2D laser SLAM with closed shape features: Fourier series parameterization and submap joining”</a> was accepted by <strong>RA-L</strong>.</li>
