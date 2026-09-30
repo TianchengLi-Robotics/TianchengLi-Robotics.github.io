@@ -8,7 +8,6 @@ layout: page
       <div class="hero-header">
         <img src="/TianchengLi.jpg" width="205" height="245" class="hero-avatar" alt="Tiancheng Li">
         <div class="hero-text">
-          <span class="eyebrow">Medical Robotics · UTS Sydney</span>
           <h1 class="hero-title">Tiancheng Li</h1>
           <p class="hero-subtitle">
             Postdoctoral Research Fellow<br>

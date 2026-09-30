@@ -47,7 +47,7 @@ strong { color: var(--ink); font-weight: 600; }
 .home-grid { width: min(100% - 64px, 940px); display: grid; grid-template-columns: minmax(0, 1fr) 290px; gap: 40px; align-items: start; }
 .home-grid section h2 { font-size: 1.5rem; margin-bottom: 22px; }
 .home-grid .experience-section h2 { font-size: 1.2rem; }
-.home-grid .about-section p, .news-list li { text-align: left; word-spacing: normal; letter-spacing: normal; text-wrap: pretty; }
+.home-grid .about-section p, .news-list li { text-align: justify; text-justify: inter-word; hyphens: auto; word-spacing: normal; letter-spacing: normal; }
 .hero-social-links { max-width: 940px; }
 .home-primary { display: flex; flex-direction: column; gap: 32px; min-width: 0; }
 .about-section { margin: 0; }
@@ -123,7 +123,7 @@ strong { color: var(--ink); font-weight: 600; }
   .top-navigation a { font-size: .76rem; padding: 22px 0; }
   .hero-section { padding: 40px 0; }
   .hero-header { flex-direction: column; align-items: flex-start; gap: 24px; }
-  .home-grid .about-section p, .news-list li { text-align: left; }
+
   .hero-avatar { width: 145px; height: 172px; margin-right: 0; }
   .hero-subtitle { font-size: 1rem; }
   .content-section { padding: 40px 0 56px; }
