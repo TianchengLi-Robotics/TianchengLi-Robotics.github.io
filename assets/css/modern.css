@@ -46,7 +46,7 @@ strong { color: var(--ink); font-weight: 600; }
 .home-grid { width: min(100% - 64px, 940px); display: grid; grid-template-columns: minmax(0, 1fr) 290px; column-gap: 44px; row-gap: 40px; }
 .home-grid section h2 { font-size: 1.5rem; margin-bottom: 22px; }
 .home-grid .experience-section h2 { font-size: 1.2rem; }
-.home-grid .about-section p, .news-list li { text-align: justify; text-justify: inter-word; }
+.home-grid .about-section p, .news-list li { text-align: left; word-spacing: normal; letter-spacing: normal; text-wrap: pretty; }
 .hero-social-links { max-width: 940px; }
 .about-section { grid-column: 1; }
 .experience-section { grid-column: 2; grid-row: 1 / span 2; }
