@@ -19,7 +19,7 @@ title: Publications
           <h2 class="publication-title">MR-MPCC: Model Predictive Contouring Control for Robotic Manipulator Tracking under Moving Reference Frames</h2>
         </div>
         <div class="publication-authors">Cheng, C., <strong>Li, T.</strong>, Woolfrey, J., Zhao, L. and Huang, S.</div>
-        <div class="publication-venue">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026).</div>
+        <div class="publication-venue">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026). Pittsburgh, USA.</div>
         <div class="publication-links">
           <a href="https://arxiv.org/pdf/2610.21292" target="_blank" rel="noopener noreferrer" class="publication-link">arXiv</a>
         </div>
