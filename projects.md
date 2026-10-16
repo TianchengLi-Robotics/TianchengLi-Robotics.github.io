@@ -33,6 +33,7 @@ title: Projects
 
         <h3>Research Outcomes</h3>
         <ul>
+          <li>Wang, Z., <strong>Li, T.</strong>, Carmichael, M. and Huang, S., 2025. Physical Human-Robot Collaboration-Assisted Acetabular Preparation for Total Hip Replacement Surgery. In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). Hangzhou, China.</li>
           <li><strong>Li, T.</strong>, Walker, P., Hammoud, D., Zhao, L. and Huang, S., 2025. Partial-to-Full Registration based on Gradient-SDF for Computer-Assisted Orthopedic Surgery. In IEEE International Conference on Robotics and Automation (ICRA). </li>
         </ul>
 
